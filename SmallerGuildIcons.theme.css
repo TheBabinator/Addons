@@ -1,3 +1,8 @@
 //META{"name":"Smaller Guild Icons","description":"Smaller guilds","author":"Satoru","version":"1"}*//{}
 
 @import url(https://tinyurl.com/y85b9d9s);
+
+
+:root {
+    --round: 50%;  /* Icon roundness. 50% Circle , 0% square. */
+}

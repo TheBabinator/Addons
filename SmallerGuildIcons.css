@@ -3,3 +3,4 @@
 .guilds-wrapper .guilds .guild.selected:before,.guilds-wrapper .guilds .guild.unread:before {left: -20px;}
 .guilds-wrapper .guilds .guild .guild-inner,.noIcon-1a_FrS.iconSizeLarge-161qtT {line-height: 40px;}
 .guilds-wrapper .guilds .friends-icon {height:40px;width: 40px;}
+.guilds-wrapper .guilds .guild .guild-inner, .guilds-wrapper .guilds .guild-icon,.guilds-wrapper .guilds .guild .badge {border-radius: var(--round)!important}
