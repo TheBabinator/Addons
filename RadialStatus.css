@@ -1,0 +1,31 @@
+.membersWrap-2h-GB4 .content-OzHfo4 .status-2s6iDp,.membersWrap-2h-GB4 .member-3W1lQa.popout-open .status-2s6iDp, .avatarStatus-3Ay1VL {
+	transition: all 150ms ease;
+    will-change: border-color, width, background, height, padding;
+}
+
+.membersWrap-2h-GB4 .content-OzHfo4:hover .status-2s6iDp,.membersWrap-2h-GB4 .member-3W1lQa.popout-open .status-2s6iDp, .avatarStatus-3Ay1VL {
+    width:100% !important;height: 100%;
+    background: transparent;border-radius: inherit;
+    right: -4px !important;bottom: -4px;padding: 2px;
+	transition: all 150ms ease;border-width: 2px;margin: 0;}
+
+.membersWrap-2h-GB4 .content-OzHfo4:hover .statusOnline-1FlpW_, 
+.membersWrap-2h-GB4 .member-3W1lQa.popout-open .statusOnline-1FlpW_ {border-color: #43b581 !important}
+
+.membersWrap-2h-GB4 .content-OzHfo4:hover .statusIdle-1XoSCz, 
+.channel-members .member.popout-open .statusIdle-1XoSCz {border-color: #faa61a !important}
+
+.membersWrap-2h-GB4 .content-OzHfo4:hover .statusDnd-2DDKST, 
+.channel-members .member.popout-open .statusDnd-2DDKST {border-color: #f04747 !important}
+
+.membersWrap-2h-GB4 .content-OzHfo4:hover .status.status-offline, 
+.channel-members .member.popout-open .status.status-offline {border-color: #636b75 !important}
+
+.membersWrap-2h-GB4 .content-OzHfo4:hover .status-streaming.status, 
+.membersWrap-2h-GB4 .member-3W1lQa.popout-open .status-streaming.status {border-color: #593695 !important}
+
+.membersWrap-2h-GB4 .member-3W1lQa.popout-open .status.status-typing, 
+.membersWrap-2h-GB4 .content-OzHfo4:hover .status.status-typing {background-color: rgba(0, 0, 0, 0.4) !important;}
+
+.membersWrap-2h-GB4 .member-3W1lQa.popout-open .status.status-typing .spinner .spinner-inner, 
+.membersWrap-2h-GB4 .content-OzHfo4:hover .status.status-typing .spinner .spinner-inner {left: 1px !important;top: 1px !important;}
