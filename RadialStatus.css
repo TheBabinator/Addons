@@ -4,7 +4,7 @@
 .userPopout-3XzG_A:hover .statusProfile-3ynqtt {
     width:100% !important;
     background: transparent;
-    border-radius: inherit;
+    border-radius: var(--round);
     height: 100%;right: -2px !important;
 	bottom: -2px;padding: 2px;
 	transition: all 150ms ease;
