@@ -1,9 +1,7 @@
 //META{"name":"RadialStatus","description":"Radial member status on hover.","author":"Satoru","version":"1"}*//{}
 
-
-:root{--round: 50%}
-
 .members-1998pB .content-OzHfo4 .status-2s6iDp {transition: all 150ms ease;will-change: border-color, width, background, height, padding;}
+.maskProfile-1ObLFT,.mask-3OgeRz {-webkit-mask: none;mask: none;}
 
 .userPopout-3XzG_A:hover .statusProfile-3ynqtt {
     width:100% !important;
@@ -12,14 +10,14 @@
     height: 100%;right: -2px !important;
 	bottom: -2px;padding: 2px;
 	transition: all 150ms ease;
-	border-width: 2px  !important;margin: 0;}
+border-width: 2px !important;margin: 0;}
 .members-1998pB .content-OzHfo4:hover .status-2s6iDp,
 .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp {
     border-radius: var(--round);
     background-color: transparent;transition: 0.2s;
     background-clip: padding-box;
     bottom: -1px;height: 28px !important;
-    right: -1px;width: 28px !important;	}
+right: -1px;width: 28px !important; }
 
 .members-1998pB .content-OzHfo4:hover .online-2S838R,.members-1998pB .member-3W1lQa.popout-open .online-2S838R {border: 2px solid #43b581 !important;transition: 0.1s;}
 .members-1998pB .content-OzHfo4:hover .streaming-2_dnHe,.members-1998pB .member-3W1lQa.popout-open .streaming-2_dnHe{border: 2px solid #593695 !important;transition: 0.1s;}
