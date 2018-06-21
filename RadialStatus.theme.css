@@ -1,0 +1,5 @@
+//META{"name":"RadialStatus","description":"Radial member status on hover.","author":"Satoru","version":"1"}*//{}
+
+@import url(https://rawgit.com/satoru8/Addons/master/RadialStatus.css)
+
+:root {--round: 50%)
