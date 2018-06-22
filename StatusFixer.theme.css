@@ -1,11 +1,3 @@
 //META{"name":"StatusFixer","description":"Fix status icons/borders.","author":"Satoru","version":"1","website":"http://discord.gg/fjvwb95"}*//{}
 
 :root {--round: 50% } /* 10% Square, 50% Circle */
-
-.status-oxiHuE {border-radius:var(--round) !important}
-.online-2S838R {background-color: transparent;border:2px solid #43b581 !important;}
-.streaming-2_dnHe {background-color: transparent;border: 2px solid #593695 !important;}
-.dnd-1_xrcq {background-color: transparent;border:2px solid #f04747 !important;}
-.idle-3DEnRT {background-color: transparent;border:2px solid #faa61a !important;}
-.invisible-1kp8Z0{background-color: transparent;border:2px solid #1afad1 !important;}
-.offline-3qoTek {background-color: transparent;border:2px solid #747f8d !important;}
