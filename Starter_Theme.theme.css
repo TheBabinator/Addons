@@ -57,7 +57,7 @@
 
 .titleBar-AC4pGV::after {content:""; position:absolute; z-index:-1; top:0; left:0; right:0; width:100%; height:22px; background: rgba(0, 0, 0, 0.61) !important;} 
 .theme-dark .card-2WxYqG {background-color: rgba(54, 57, 63, 0.3)!important;}
-.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .typeWindows-15E0Ys {background: rgba(0, 0, 0, 0.2) !important;}
+.theme-dark .layers-3iHuyZ, .typeWindows-15E0Ys {background: rgba(0, 0, 0, 0.2) !important;}
 .search-results-wrap .search-result-message.hit {box-shadow:none !important;} 
 
 /* Hides scroll bars */
