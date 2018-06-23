@@ -1,14 +1,3 @@
-//META{"name":"Starter Theme","description":"Basic full transparency with a layer to adjust brightness/colour. Some standard menus left unthemed for you to start with.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
-
-@import url();  /* Import your rawgit link here */
-
-:root {
-    --background: url(https://images4.alphacoders.com/668/668521.jpg);  /*Wallpaper.*/
-    --font-size: 15px ;
-	--text:  #fff;}
-	
-/*  Everything above this line should be in your MyTheme.theme.css  Everything else goes in MyTheme.css for import */
-
 .appMount-3VJmYg {background: var(--background) center/cover no-repeat;animation: none;} /* Places a background colour or image. */
 .markup:not(code) {font-size: var(--font-size)!important;}  /* Changes font size of user text, not including code. */
 .theme-dark .message-group .comment .markup {color: var(--text)} /* Text colour */
