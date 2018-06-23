@@ -5,7 +5,7 @@
 :root {
     --background: url(https://images4.alphacoders.com/668/668521.jpg);  /*Wallpaper.*/
     --font-size: 15px ;
-	--text:  #fff(255, 255, 255);}
+	--text:  #fff;}
 	
 /*  Everything above this line should be in your MyTheme.theme.css  Everything else goes in MyTheme.css for import */
 
