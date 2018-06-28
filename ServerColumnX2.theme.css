@@ -1,0 +1,14 @@
+//META{"name":"ServerColumnX2","description":"2 columns ","author":"Satoru","version":"1.0"}*//{}
+
+.guilds-wrapper{width: 120px;}
+.guilds-wrapper .scroller-wrap{width: 135px;}
+.guilds-wrapper .guilds {display: flex;flex-flow: row wrap; padding-left: 0;align-content: flex-start;}
+.guilds-wrapper .guilds .guild {margin-left: 6px; margin-top: 8px;}
+.guilds-wrapper .guilds .guild.unread::before {	left: -3px;top: 5px;z-index:9000;}
+.guilds-wrapper .guilds .guild:first-child {position: relative;left: 0;margin: auto;margin-top: 5px;}
+.guilds-wrapper .guilds .guild-separator {	position: relative;width: 100%;margin-top: 1px;}
+.guilds-wrapper .guilds .friends-online {position: relative;width: 100%;margin: auto;margin-top: 1px;}
+.guilds-wrapper .guilds .guild.selected:before {display: none;}
+.guilds-wrapper .guilds .guild {position: relative;}
+.guilds-wrapper .guilds .dms {width: 100%;display: flex;flex-flow: row wrap;}
+.guilds-wrapper .guilds .dms .guild {left: 0;}
