@@ -7,3 +7,4 @@
 .guilds-wrapper .guilds .friends-icon {height:40px;width: 40px;}
 .guilds-wrapper .guilds .guild .guild-inner, .guilds-wrapper .guilds .guild-icon,.guilds-wrapper .guilds .guild .badge {border-radius: var(--round)!important}
 .guilds-wrapper .guilds .guild .avatar-small {background-repeat: no-repeat;background-size: 40px 40px;height: 40px;width: 40px;}
+#bd-pub-li {position: absolute;left: 30px;top:70px}
