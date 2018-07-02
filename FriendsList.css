@@ -1,0 +1,104 @@
+#friends .friends-table .friends-row  {
+    background: hsla(0, 0%, 0%, 0.5) !important;
+    box-shadow: 0px 0px 5px 1px   var(--color) !important;
+    border-radius: 5px !important;
+    margin: 10px!important;padding: 0 !important;
+    height: 130px !important;
+    flex-direction: column !important;flex-basis: 300px !important;
+    transition: opacity 300ms;
+    white-space: nowrap;width: 320px;
+    line-height: 0px;font-weight: 700;
+    display: inline-block;
+    justify-content: center;align-items: center;position:relative}
+#friends .friends-table .friends-row:hover {background-color:var(--trans2) !important;box-shadow: 0px 0px 20px 0px  var(--color) !important}
+#friends .friends-table .friends-row:active {box-shadow: 0px 0px 20px 0px  var(--color);animation: button 80ms }
+#friends .friends-table .friends-table-body {padding: 0;}
+#friends .friends-header .tab-bar .tab-bar-item .badge {
+  background: hsla(0, 0%, 0%, 0.4) !important;
+  color:  var(--color) !important;
+  opacity: 0.7;transition: opacity 500ms;}
+#friends .friends-table{margin-top: 0px;}
+#friends .friends-header .tab-bar .tab-bar-item,
+#friends .friends-table .friends-table-header .friends-column,
+#friends .friends-table .friends-row .friends-column-name {color:  var(--accent) !important;}
+#friends .friends-table .friends-row .friends-column-status{color: black !important}
+#friends .friends-table .friends-row:hover .username {color: var(--accent);}
+#friends .friends-table .friends-table-header {display: none;}
+#friends .friends-table .friends-row .avatar-small {box-shadow: none;}
+#friends .friends-table .friends-row+.friends-row {border-top: none !important;}
+#friends .friends-table .friends-row .friends-column {position: absolute;backface-visibility: hidden;}
+#friends .friends-table .friends-row .friends-column+.friends-column { margin: 0;}
+#friends .friends-table .friends-row .friends-column-name .avatar-small {
+  top: 15px;  left: 5px;  width: 85px;  height: 85px;
+  background-size: 85px 85px;  opacity: 0.8;
+  transition: opacity 500ms, transform .2s linear, box-shadow .2s linear;
+  transform: scale(0.97) perspective(1px);}
+#friends .friends-table .friends-row:hover .friends-column-name .avatar-small {opacity: 1;transform: scale(1) perspective(1px);box-shadow: none}
+#friends .friends-table .friends-row .friends-column-name .discord-tag {
+  display: block;position: absolute;
+  top: 25px;left: 115px;
+  text-shadow: 1px 1px 1px hsl(0, 0%, 0%);}
+#friends .friends-table .friends-row .friends-column-name .discord-tag .discriminator {visibility: visible;}
+#friends .friends-table .friends-row .friends-column-status {top: 0;  width: 100%; justify-content: center;height: 18px;}
+#friends .friends-table .friends-row .friends-column-status .online-2S838R,
+#friends .friends-table .friends-row .friends-column-status .idle-3DEnRT,
+#friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq,
+#friends .friends-table .friends-row .friends-column-status .invisible-1kp8Z0,
+#friends .friends-table .friends-row .friends-column-status .streaming-2_dnHe,
+#friends .friends-table .friends-row .friends-column-status .offline-3qoTek {
+  width: 100%;left:0;height: 20px;
+  border-radius: 5px 5px 0 0 !important;position: absolute;
+  top: 0;opacity: 0.7;z-index: 0;}
+#friends .friends-table .friends-row:hover .friends-column-status .status {opacity: 0.9;}
+#friends .friends-table .friends-row .friends-column-status .status-text {
+  color: hsla(0, 0%, 0%, 0.6);
+  font-weight: 800 !important;max-width: 90%;
+  font-size: 12px;line-height: normal;
+  transition: color 300ms;z-index: 0;}
+#friends .friends-table .friends-row:hover .friends-column-status .status-text {color: var(--color);opacity: 1}
+#friends .friends-table .friends-table-body .friends-row .friends-column-guilds {top: 80px;left: 115px;width: 150px;display: flex !important;}
+#friends .friends-table .friends-table-body .friends-row .friends-column-guilds .avatar-small {opacity: 0.8;transition: opacity 500ms;}
+#friends .friends-table .friends-table-body .friends-row:hover .friends-column-guilds .avatar-small {opacity: 1;}
+#friends .friends-table .friends-row .friends-column-guilds .avatar-small {background-color: hsla(0, 0%, 0%, 0.4);}
+#friends .friends-table .friends-row .friends-column-guilds a:nth-child(4),#friends .friends-table .friends-row .friends-column-guilds a:nth-child(4) .avatar-small,
+#friends .friends-table .friends-row .friends-column-guilds a:nth-child(5),#friends .friends-table .friends-row .friends-column-guilds a:nth-child(5) .avatar-small,
+#friends .friends-table .friends-row .friends-column-guilds a:nth-child(n + 6) {display: none;}
+#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:before {
+  content: "";
+  background-color: hsla(0, 0%, 0%, 0.4);background-size: 18px 18px;
+  background-position: center center;background-repeat: no-repeat;
+  border-radius: 5px;width: 30px;height: 30px;
+  box-shadow: 1px 1px 2px hsla(0, 0%, 0%, 0.5);position: absolute;top: 0;}
+#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn,
+#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:hover {border: 0;color: transparent !important;}
+#friends .friends-table .friends-row .friends-column-actions {
+  top: 45px;  right: 10px;  opacity: 0;
+  transition: opacity 400ms;visibility: visible;}
+#friends .friends-table .friends-row:hover .friends-column-actions {  opacity: 0.8;}
+#friends .friends-table .friends-row .friends-column-actions .friends-action {
+  width: 24px;height: 24px;
+  transform: translateX(120px);
+  transition: transform 400ms, background 400ms;}
+#friends .friends-table .friends-row:hover .friends-column-actions .friends-action {transform: translateX(0px);}
+#friends .friends-table .friends-row .friends-column-actions .friends-action:first-child,
+#friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2) {background-color: hsla(0, 0%, 0%, 0.5);box-shadow: 0px 0px 10px 0px  var(--color) !important;}
+#friends .friends-table .friends-row .friends-suggestion-inner {padding: 20px;}
+#friends .friends-table .friends-row .friends-suggestion-inner .avatar-large {border-radius: 5px;opacity: 0.6;transition: opacity 500ms;}
+#friends .friends-table .friends-row:hover .friends-suggestion-inner .avatar-large {opacity: 0.7;}
+#friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .username {
+  color: hsla(0, 0%, 88%, 0.6);width: 100px;
+  white-space: nowrap;overflow: hidden;
+  text-overflow: ellipsis;transition: color 500ms;}
+#friends .friends-table .friends-row:hover .friends-suggestion-inner .friends-suggestion-info .discord-tag .username {color: hsla(0, 0%, 88%, 0.7);}
+#friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .discriminator {color: hsla(0, 0%, 88%, 0.7);visibility: visible;}
+#friends .friends-table .friends-row .friends-suggestion-inner~.friends-column-actions {display: flex;flex-direction: column;padding: 5px 25px 0 0;}
+#friends .friends-table .friends-row .friends-suggestion-inner~.friends-column-actions .friends-action:nth-child(2) {  margin: 5px 0 0 0;}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {background-color: hsla(122, 100%, 50%, 0.4);}
+#friends .friends-table .friends-row .friends-column-status .status.status-unknown {border: none;}
+#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {background-color: hsla(0, 83%, 45%, 0.5) !important;}
+#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove:hover {background-color: hsl(0, 83%, 45%) !important;}
+#friends .friends-table .friends-table-body {display: flex !important;flex-flow: row wrap !important;justify-content: safe !important;}
+.friends-table-body[class*="scroller"] .friends-row {min-width: 20%;}
+#friends .friends-table .friends-row .friends-column-actions .friends-action:first-child  {transition:600ms}
+#friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2) {transition:800ms}
+#friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(3) {transition:1000ms}

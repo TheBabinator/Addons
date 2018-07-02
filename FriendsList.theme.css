@@ -1,0 +1,10 @@
+//META{"name":"Friends List","description":"Box style friends list with animations.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url();
+
+:root {
+    --color: hsla(268, 100%, 50%, 0.9);                   /*Main Color*/
+    --accent: hsl(297, 100%, 40%);                      /*Accent Color*/  	
+    --trans: rgba(0, 0, 0, 0.35);                        /*Darkness*/
+    --dark2: rgb(17, 17, 18);
+	--trans2: rgba(0, 0, 0, 0.8);}
