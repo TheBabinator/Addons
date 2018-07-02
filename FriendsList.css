@@ -1,3 +1,4 @@
+@keyframes button	{100%{transform:scale(.90)}50%{transform:scale(1)}} 
 #friends .friends-table .friends-row  {
     background: hsla(0, 0%, 0%, 0.5) !important;
     box-shadow: 0px 0px 5px 1px   var(--color) !important;
