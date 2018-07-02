@@ -1,6 +1,6 @@
 //META{"name":"Friends List","description":"Box style friends list with animations.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
 
-@import url();
+@import url(https://rawgit.com/satoru8/Addons/master/FriendsList.css);
 
 :root {
     --color: hsla(268, 100%, 50%, 0.9);                   /*Main Color*/
