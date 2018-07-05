@@ -1,23 +1,36 @@
+.header-QKLPzZ:hover .statusProfile-3ynqtt.status-oxiHuE,.userPopout-3XzG_A:hover .statusProfile-3ynqtt {width:96% !important;height: 96%;right:-2px !important;bottom:-2px;padding:2px;transition: .1s}
+
+.listRow-hutiT_:hover .status-oxiHuE,.card-7JP0BX:hover .status-oxiHuE {width:91% !important;height: 91%;border-radius: var(--round);right: -2px !important;bottom:-2px;padding:2px;transition: .1s}
+
+.autocompleteRow-2OthDa:hover .status-oxiHuE{
+    width:82% !important;height: 82%;border-radius: var(--round);
+    right: -2px !important;	bottom: -2px;padding: 2px;transition: .1s}
+
+.members-1998pB .content-OzHfo4:hover .status-2s6iDp,.container-2Thooq:hover .status-2kJpnA,
+.members-1998pB .member-3W1lQa.popout-open .status-2s6iDp,.private-channels .channel a:hover .status {border-radius: var(--round);bottom: -1px;right: -1px;height: 28px !important;width: 28px !important;}
+
+
+.autocompleteRow-2OthDa:hover .online-2S838R, .listRow-hutiT_:hover .online-2S838R,.card-7JP0BX:hover .online-2S838R,.header-QKLPzZ:hover .statusProfile-3ynqtt.online-2S838R,
+.private-channels .channel a:hover .online-2S838R, .container-2Thooq:hover .online-2S838R,.members-1998pB .content-OzHfo4:hover .online-2S838R,.members-1998pB .member-3W1lQa.popout-open .online-2S838R,.userPopout-3XzG_A:hover .online-2S838R {background-color: transparent;border:2px solid #43b581 !important;transition: .2s}
+
+.autocompleteRow-2OthDa:hover .streaming-2_dnHe, .listRow-hutiT_:hover .streaming-2_dnHe,.card-7JP0BX:hover .streaming-2_dnHe,.header-QKLPzZ:hover .statusProfile-3ynqtt.streaming-2_dnHe,
+.private-channels .channel a:hover .streaming-2_dnHe,.container-2Thooq:hover .streaming-2_dnHe,.members-1998pB .content-OzHfo4:hover .streaming-2_dnHe,.members-1998pB .member-3W1lQa.popout-open .streaming-2_dnHe,.userPopout-3XzG_A:hover .streaming-2_dnHe{background-color: transparent;border: 2px solid #593695 !important;transition: .2s}
+
+.autocompleteRow-2OthDa:hover .dnd-1_xrcq, .listRow-hutiT_:hover .dnd-1_xrcq,.card-7JP0BX:hover .dnd-1_xrcq,.header-QKLPzZ:hover .statusProfile-3ynqtt.dnd-1_xrcq,
+.private-channels .channel a:hover .dnd-1_xrcq,.container-2Thooq:hover .dnd-1_xrcq,.members-1998pB .content-OzHfo4:hover .dnd-1_xrcq,.members-1998pB .member-3W1lQa.popout-open .dnd-1_xrcq,.userPopout-3XzG_A:hover .dnd-1_xrcq {background-color: transparent;border:2px solid #f04747 !important;transition: .2s}
+
+.autocompleteRow-2OthDa:hover .idle-3DEnRT, .listRow-hutiT_:hover .idle-3DEnRT,.card-7JP0BX:hover .idle-3DEnRT,.header-QKLPzZ:hover .statusProfile-3ynqtt.idle-3DEnRT,
+.private-channels .channel a:hover .idle-3DEnRT,.container-2Thooq:hover .idle-3DEnRT,.members-1998pB .content-OzHfo4:hover .idle-3DEnRT,.members-1998pB .member-3W1lQa.popout-open .idle-3DEnRT,.userPopout-3XzG_A:hover .idle-3DEnRT {background-color: transparent;border:2px solid #faa61a !important;transition: .2s}
+
+.autocompleteRow-2OthDa:hover .invisible-1kp8Z0, .listRow-hutiT_:hover .invisible-1kp8Z0,.card-7JP0BX:hover .invisible-1kp8Z0,.header-QKLPzZ:hover .statusProfile-3ynqtt.invisible-1kp8Z0,
+.private-channels .channel a:hover .invisible-1kp8Z0,.container-2Thooq:hover .invisible-1kp8Z0,.members-1998pB .content-OzHfo4:hover .invisible-1kp8Z0,.members-1998pB .member-3W1lQa.popout-open .invisible-1kp8Z0,.userPopout-3XzG_A:hover .invisible-1kp8Z0{background-color: transparent;border:2px solid #747f8d !important;transition: .2s}
+
+.autocompleteRow-2OthDa:hover .offline-3qoTek, .listRow-hutiT_:hover .offline-3qoTek,.card-7JP0BX:hover .offline-3qoTek,.header-QKLPzZ:hover .statusProfile-3ynqtt.offline-3qoTek,
+.private-channels .channel a:hover .offline-3qoTek,.container-2Thooq:hover .offline-3qoTek,.members-1998pB .content-OzHfo4:hover .offline-3qoTek,.members-1998pB .member-3W1lQa.popout-open .offline-3qoTek,.userPopout-3XzG_A:hover .offline-3qoTek{background-color: transparent;border:2px solid #747f8d !important;transition: .2s}
+
 .members-1998pB .content-OzHfo4 .status-2s6iDp {transition: all 150ms ease;will-change: border-color, width, background, height, padding;}
 .maskProfile-1ObLFT,.mask-3OgeRz {-webkit-mask: none;mask: none;}
-
-.userPopout-3XzG_A:hover .statusProfile-3ynqtt {
-    width:100% !important;
-    background: transparent;
-    border-radius: var(--round);
-    height: 100%;right: -2px !important;
-	bottom: -2px;padding: 2px;
-	transition: all 150ms ease;
-border-width: 2px !important;margin: 0;}
-.members-1998pB .content-OzHfo4:hover .status-2s6iDp,
-.members-1998pB .member-3W1lQa.popout-open .status-2s6iDp {
-    border-radius: var(--round);
-    background-color: transparent;transition: 0.2s;
-    background-clip: padding-box;
-    bottom: -1px;height: 28px !important;
-right: -1px;width: 28px !important; }
-
-.members-1998pB .content-OzHfo4:hover .online-2S838R,.members-1998pB .member-3W1lQa.popout-open .online-2S838R {border: 2px solid #43b581 !important;transition: 0.1s;}
-.members-1998pB .content-OzHfo4:hover .streaming-2_dnHe,.members-1998pB .member-3W1lQa.popout-open .streaming-2_dnHe{border: 2px solid #593695 !important;transition: 0.1s;}
-.members-1998pB .content-OzHfo4:hover .dnd-1_xrcq,.members-1998pB .member-3W1lQa.popout-open .dnd-1_xrcq{border: 2px solid #f04747 !important;transition: 0.1s;}
-.members-1998pB .content-OzHfo4:hover .idle-3DEnRT,.members-1998pB .member-3W1lQa.popout-open .idle-3DEnRT{border: 2px solid #faa61a !important;transition: 0.1s;}
+.status-oxiHuE,.statusProfile-3ynqtt.status-oxiHuE {border-radius:var(--round) !important;box-shadow:none;-webkit-box-shadow:none;}
+.container-2Thooq .status-2kJpnA,.statusProfile-3ynqtt.status-oxiHuE {pointer-events: none !important;}
+.theme-dark .title-3qD0b- .status-oxiHuE,.friends-column-status .status,.titleCall-_b9o8P .status-oxiHuE {position:relative}
+.pulsingEllipsisItem-32hhWL {opacity: .9}
