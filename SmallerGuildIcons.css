@@ -1,12 +1,14 @@
-.guilds-wrapper {width:65px}
-.guilds-wrapper .guild-separator:after{display:none}
-.guilds-wrapper .guilds-error{width:40px;height:40px;line-height: 32px}
-.guilds-wrapper .guilds .guild {width:40px;height:40px;left:5px;}
-.guilds-wrapper .guilds .guild-icon,.guilds-wrapper .guilds .guild .guild-inner a {width:40px;height:40px;}
-.guilds-wrapper .guilds .guild.selected:before,.guilds-wrapper .guilds .guild.unread:before {left: -20px;}
-.guilds-wrapper .guilds .guild .guild-inner,.noIcon-1a_FrS.iconSizeLarge-161qtT {line-height: 40px;}
-.guilds-wrapper .guilds .friends-icon {height:40px;width: 40px;}
+#bd-pub-li {position: relative ;left: 5px;top:10px;background:rgba(0, 0, 0, 0.4)}
+.guilds-wrapper {width:var(--size2)}
+.guilds-wrapper .guild-separator:after,.guilds-wrapper ::-webkit-scrollbar{display:none}
+.guilds-wrapper .guilds-error{width:var(--size);height:var(--size);line-height: 32px}
+.guilds-wrapper .guilds .guild {width:var(--size);height:var(--size);left:5px}
+.guilds-wrapper .guilds .guild-icon,.guilds-wrapper .guilds .guild .guild-inner a {width:var(--size);height:var(--size)}
+.guilds-wrapper .guilds .guild.selected:before,.guilds-wrapper .guilds .guild.unread:before {left: -20px}
+.guilds-wrapper .guilds .guild .guild-inner,.noIcon-1a_FrS.iconSizeLarge-161qtT {line-height: 40px}
+.guilds-wrapper .guilds .friends-icon {height:var(--size);width: var(--size)}
 .guilds-wrapper .guilds .friends-online {position: relative;margin: 0;bottom: 25px !important}
 .guilds-wrapper .guilds .guild .guild-inner, .guilds-wrapper .guilds .guild-icon,.guilds-wrapper .guilds .guild .badge {border-radius: var(--round)!important}
-.guilds-wrapper .guilds .guild .avatar-small {background-repeat: no-repeat;background-size: 40px 40px;height: 40px;width: 40px;}
-#bd-pub-li {position:  relative ;left: 5px;top:10px;}
+.guilds-wrapper .guilds .guild .avatar-small {background-repeat: no-repeat;background-size: var(--size) var(--size);height: var(--size);width: var(--size)}
+.unread-mentions-indicator-bottom, .unread-mentions-indicator-top {padding: 10px;}
+.guilds-wrapper .guilds .guild .guild-inner{background: transparent}
