@@ -1,5 +1,5 @@
 //META{"name":"Status Chooser","description":"New status picker with animations.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
 
-@import url();
+@import url(https://rawgit.com/satoru8/Addons/master/StatusChooser.css);
 
 :root {--bg: rgba(0,0,0,.9)} /* Background colour/transparency */
