@@ -1,4 +1,15 @@
 @keyframes button	{100%{transform:scale(.90)}50%{transform:scale(1)}} 
+#friends .btn,.theme-dark #friends .friends-header .tab-bar .tab-bar-item.selected{background-color:var(--color);color:#fff;}
+#friends .tab-bar .tab-bar-item.selected {background-color: var(--color) !important;color: #fff!important;}
+.theme-dark #friends .friends-table .friends-row:hover{background: var(--dark2);}
+#friends .tab-bar .tab-bar-item:hover:not(.selected){background-color: rgba(0,0,0,0.6);}
+#friends .friends-table .friends-row:hover{background: rgba(0,0,0,0.5);}
+#friends .friends-header{border-bottom:2px var(--color) solid !important;}
+#friends .friends-table .friends-row .friends-suggestion-inner .avatar-large{margin-right:20px;height:60px;width:60px;background-repeat:no-repeat;border-radius:3px;background-size:60px;}
+#friends .friends-table .friends-row .friends-suggestion-inner{padding:15px;}
+#friends .friends-header{border-bottom:1px #141416 solid !important;}
+#friends .tab-bar .tab-bar-item.selected .badge {background-color: var(--trans2);color: var(--accent);}
+#friends .tab-bar .tab-bar-item .badge {background-color: var(--trans);color: var(--color);}
 #friends .friends-table .friends-row  {
     background: hsla(0, 0%, 0%, 0.5) !important;
     box-shadow: 0px 0px 5px 1px   var(--color) !important;
