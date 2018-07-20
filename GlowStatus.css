@@ -1,0 +1,45 @@
+/* Status */
+.theme-dark .member-3W1lQa {height:45px}
+.theme-dark .members-1998pB .content-OzHfo4 .status-2s6iDp {width:33px !important;height:33px!important;}
+.theme-dark .members-1998pB .small-5Os1Bb {background-position: cover;height: 37px;width: 37px;}
+
+.status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp,
+.status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {animation: typing 2s linear infinite;}
+
+.statusProfile-3ynqtt.status-oxiHuE {width:95% !important;height: 95%;right:0 !important;bottom:0;padding:0;}
+.listRow-hutiT_ .status-oxiHuE,.card-7JP0BX .status-oxiHuE {width:90% !important;height: 91%;border-radius: var(--round);right: 0 !important;bottom:0;padding:0;}
+.autocompleteRow-2OthDa .status-oxiHuE{width:82% !important;height: 82%;border-radius: var(--round);right: 0 !important;bottom: 0;padding: 0;}
+.private-channels .channel .status-oxiHuE {width:87% !important;height: 87% !important;border-radius: var(--round);left: 0 !important;top: 0 !important;padding: 0;   }
+.members-1998pB .content-OzHfo4 .status-2s6iDp,.container-2Thooq .status-2kJpnA,
+.private-channels .status {border-radius: var(--round);background-clip: padding-box;bottom: 0;right: 0;height: 26px !important;width: 26px !important;}
+
+.status-oxiHuE,.statusProfile-3ynqtt.status-oxiHuE {border-radius:var(--round) !important;box-shadow:none;-webkit-box-shadow:none;}
+
+.autocompleteRow-2OthDa .online-2S838R,.listRow-hutiT_ .online-2S838R,.card-7JP0BX .online-2S838R,
+.friend-2PO6ke .online-2S838R,.statusProfile-3ynqtt.online-2S838R,.private-channels .online-2S838R, .container-2Thooq .online-2S838R,
+.members-1998pB .content-OzHfo4 .online-2S838R {background-color: transparent;border: 2px solid rgba(67, 181, 129, 0) !important;box-shadow: 0 0 2px 2px rgb(67, 181, 129) !important;}
+
+.autocompleteRow-2OthDa .streaming-2_dnHe,.listRow-hutiT_ .streaming-2_dnHe,.card-7JP0BX .streaming-2_dnHe,
+.friend-2PO6ke .streaming-2_dnHe,.statusProfile-3ynqtt.streaming-2_dnHe,.private-channels .streaming-2_dnHe,.container-2Thooq .streaming-2_dnHe,
+.members-1998pB .content-OzHfo4 .streaming-2_dnHe {background-color: transparent;border: 2px solid rgba(89, 54, 149, 0) !important;box-shadow: 0 0 2px 2px rgb(89, 54, 149) !important}
+
+.friend-2PO6ke .dnd-1_xrcq,.autocompleteRow-2OthDa .dnd-1_xrcq,.listRow-hutiT_ .dnd-1_xrcq,.card-7JP0BX .dnd-1_xrcq,.statusProfile-3ynqtt.dnd-1_xrcq,
+.private-channels .dnd-1_xrcq,.container-2Thooq .dnd-1_xrcq,.members-1998pB .content-OzHfo4 .dnd-1_xrcq {background-color: transparent;border:2px solid rgba(240, 71, 71, 0) !important;box-shadow: 0 0 2px 2px rgb(240,71,71) !important}
+
+.friend-2PO6ke .idle-3DEnRT,.autocompleteRow-2OthDa .idle-3DEnRT,.listRow-hutiT_ .idle-3DEnRT,.card-7JP0BX .idle-3DEnRT,.statusProfile-3ynqtt.idle-3DEnRT,
+.private-channels .idle-3DEnRT,.container-2Thooq .idle-3DEnRT,.members-1998pB .content-OzHfo4 .idle-3DEnRT {background-color: transparent;border:2px solid rgba(250, 166, 26, 0) !important;box-shadow: 0 0 2px 2px rgb(250, 166, 26) !important}
+
+.friend-2PO6ke .invisible-1kp8Z0,.autocompleteRow-2OthDa .invisible-1kp8Z0,.listRow-hutiT_ .invisible-1kp8Z0,.card-7JP0BX .invisible-1kp8Z0,
+.statusProfile-3ynqtt.invisible-1kp8Z0,.private-channels .invisible-1kp8Z0,.container-2Thooq .invisible-1kp8Z0,
+.members-1998pB .content-OzHfo4 .invisible-1kp8Z0{background-color: transparent;border:2px solid rgba(26, 54, 250, 0) !important;box-shadow: 0 0 2px 2px rgb(26, 54, 250) !important}
+
+.friend-2PO6ke .offline-3qoTek,.autocompleteRow-2OthDa .offline-3qoTek,.listRow-hutiT_ .offline-3qoTek,.card-7JP0BX .offline-3qoTek,
+.statusProfile-3ynqtt.offline-3qoTek,.private-channels .offline-3qoTek,.container-2Thooq .offline-3qoTek,
+.members-1998pB .content-OzHfo4 .offline-3qoTek {background-color: transparent;border:2px solid rgba(116, 127, 141, 0) !important;box-shadow: 0 0 2px 2px rgb(116, 127, 141) !important}
+
+.container-2Thooq .status-2kJpnA,.statusProfile-3ynqtt.status-oxiHuE {pointer-events: none !important;}
+.status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp,.status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {background-color: rgba(0, 0, 0, 0.4) !important;right: 0 !important;}
+
+.theme-dark .title-3qD0b- .status-oxiHuE,.friends-column-status .status,.titleCall-_b9o8P .status-oxiHuE {position:relative}
+.maskProfile-1ObLFT,.mask-3OgeRz {-webkit-mask: none;mask: none;}
+.pulsingEllipsisItem-32hhWL {opacity: .9}
