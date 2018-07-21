@@ -1,5 +1,5 @@
 //META{"name":"GlowStatus","description":"For Nyx theme","author":"Satoru","version":"1","website":"http://discord.gg/fjvwb95"}*//{}
 
-@import url(https://rawgit.com/satoru8/Addons/master/GlowStatus.css)
+@import url("https://rawgit.com/satoru8/Addons/master/GlowStatus.css");
 
 :root {--round: 50%} /* 10% Square, 50% Circle */
