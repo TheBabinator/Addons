@@ -1,15 +1,16 @@
 //META{"name":"Large Chat Avatars","description":"Larger chat avatars. Adjustable size.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
 
 :root {
-	--size1: 55px;
-	--round1: 5%;
-	--margin1: -2px;
-	--shadow1: 0 0 2px 0 #000;
+	--size1: 60px; /* Avatar Size */
+	--round1: 5%;  /* Avatar roundness 50% Circle. */
+	--margin1: -6px; /* Margin left/right */
+	--margin2: -5px; /* Margin top/bottom */
+	--shadow1: 0 0 2px 0 #000; /* Shadow for transparent themes. */
 }
 
 #app-mount .containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB {
 background-size: var(--size1) var(--size1);
-height: var(--size1);width: var(--size1);
+height: var(--size1);width: var(--size1);margin-top:var(--margin2);
 border-radius:var(--round1);
 margin-left:var(--margin1);
 box-shadow: var(--shadow1)
