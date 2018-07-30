@@ -3,15 +3,19 @@
 :root {
 	--size1: 60px; /* Avatar Size */
 	--round1: 5%;  /* Avatar roundness 50% Circle. */
-	--margin1: -6px; /* Margin left/right */
-	--margin2: -5px; /* Margin top/bottom */
-	--shadow1: 0 0 2px 0 #000; /* Shadow for transparent themes. */
+	--margin1: 0px; /* Margin left/right */
+	--margin2: 0px; /* Margin top/bottom */
+	--shadow1: 0 0 1px 0 #000; /* Shadow for transparent themes. */
 }
 
-#app-mount .containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB {
+.containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB {
 background-size: var(--size1) var(--size1);
-height: var(--size1);width: var(--size1);margin-top:var(--margin2);
+height: var(--size1);width: var(--size1);
+margin-left:var(--margin1);margin-top:var(--margin2);
 border-radius:var(--round1);
-margin-left:var(--margin1);
-box-shadow: var(--shadow1)
-}
+box-shadow: var(--shadow1)}
+.container-1YxwTf .wrapper-2F3Zv8{width: calc(-10px + var(--size1));height: var(--size1)}
+.contentCozy-3XX413 {margin-left: calc(30px + var(--size1))}
+.container-1YxwTf {min-height: var(--size1);box-sizing: content-box;position:relative}
+.containerCozy-jafyvG {margin: 0;padding: 15px 0}
+.container-1YxwTf .divider-32i8lo {position:absolute;bottom:15px;width:100%}
