@@ -16,6 +16,6 @@ border-radius:var(--round1);
 filter: drop-shadow(var(--shadow1))}
 .container-1YxwTf .wrapper-2F3Zv8{width: calc(-10px + var(--size1));height: var(--size1)}
 .contentCozy-3XX413 {margin-left: calc(35px + var(--size1))}
-.container-1YxwTf {min-height: var(--size1);box-sizing: content-box;position:relative}
+.container-1YxwTf {min-height: var(--size1);box-sizing: content-box}
 .containerCozy-jafyvG {margin: 0;padding: 15px 0}
 .container-1YxwTf .divider-32i8lo {position:absolute;bottom:15px;width:100%}
