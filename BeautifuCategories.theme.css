@@ -1,0 +1,6 @@
+//META{"name":"Beautiful Categories","description":"Adds lines to the left and right of categories. Original creator lloti.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+div[class^=container-] div[class*=wrapper] > div[class*=name] {text-align: center;display: flex;justify-content: center;align-items: center;overflow: hidden;color: #fff;opacity: 0.6;transition: .2s opacity ease-in-out}
+div[class^=container-] div[class*=wrapper] > div[class*=name]:before, div[class^=container-] div[class*=wrapper] > div[class*=name]:after {content: ""; width: 100%;vertical-align: middle;height: 1px;background: #eee;display: inline-block; margin: 0 5px}
+div[class^=container-] div[class*=wrapper] > div[class*=name]:hover{opacity: 1}
+.containerDefault-3GGEv_ {padding: 5px}
