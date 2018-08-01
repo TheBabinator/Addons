@@ -55,7 +55,7 @@
 #friends .friends-table .friends-row .friends-column-status .invisible-1kp8Z0,
 #friends .friends-table .friends-row .friends-column-status .streaming-2_dnHe,
 #friends .friends-table .friends-row .friends-column-status .offline-3qoTek,#friends .friends-table .friends-row .friends-column-status {
-  width: 100%!important;left:2px!important;height:10px;
+  width: 100%!important;left:2px!important;height:17px !important;
   border-radius: 5px 5px 0 0 !important;position: absolute;
   top: 0;opacity: 0.6;z-index: 0;justify-content: center}
 #friends .friends-table .friends-row:hover .friends-column-status {opacity:1}
@@ -63,8 +63,8 @@
 #friends .friends-table .friends-row .friends-column-status .status-text {
   color: hsla(0, 0%, 0%, 0.6);
   font-weight: 800 !important;max-width: 90%;
-  font-size: 12px;line-height: normal;
-  transition: color 300ms;z-index: 0;}
+  font-size: 14px;line-height: normal;position:absolute;
+  transition: color 300ms;z-index: 1;}
 #friends .friends-table .friends-row:hover .friends-column-status .status-text {color: var(--color);opacity: 1}
 #friends .friends-table .friends-table-body .friends-row .friends-column-guilds {top: 80px;left: 115px;width: 150px;display: flex !important;}
 #friends .friends-table .friends-table-body .friends-row .friends-column-guilds .avatar-small {opacity: 0.8;transition: opacity 500ms;}
