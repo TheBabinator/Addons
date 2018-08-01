@@ -46,19 +46,19 @@
 #friends .friends-table .friends-row:hover .friends-column-name .avatar-small {opacity: 1;transform: scale(1) perspective(1px);box-shadow: none}
 #friends .friends-table .friends-row .friends-column-name .discord-tag {
   display: block;position: absolute;
-  top: 25px;left: 115px;
+  top: 20px;left: 115px;
   text-shadow: 1px 1px 1px hsl(0, 0%, 0%);}
 #friends .friends-table .friends-row .friends-column-name .discord-tag .discriminator {visibility: visible;}
-#friends .friends-table .friends-row .friends-column-status {top: 0;  width: 100%; justify-content: center;height: 18px;}
 #friends .friends-table .friends-row .friends-column-status .online-2S838R,
 #friends .friends-table .friends-row .friends-column-status .idle-3DEnRT,
 #friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq,
 #friends .friends-table .friends-row .friends-column-status .invisible-1kp8Z0,
 #friends .friends-table .friends-row .friends-column-status .streaming-2_dnHe,
-#friends .friends-table .friends-row .friends-column-status .offline-3qoTek {
-  width: 100%;left:0;height: 20px;
+#friends .friends-table .friends-row .friends-column-status .offline-3qoTek,#friends .friends-table .friends-row .friends-column-status {
+  width: 100%!important;left:2px!important;height:10px;
   border-radius: 5px 5px 0 0 !important;position: absolute;
-  top: 0;opacity: 0.7;z-index: 0;}
+  top: 0;opacity: 0.6;z-index: 0;justify-content: center}
+#friends .friends-table .friends-row:hover .friends-column-status {opacity:1}
 #friends .friends-table .friends-row:hover .friends-column-status .status {opacity: 0.9;}
 #friends .friends-table .friends-row .friends-column-status .status-text {
   color: hsla(0, 0%, 0%, 0.6);
