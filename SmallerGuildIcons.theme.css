@@ -2,10 +2,8 @@
 
 @import url(https://satoru8.github.io/Addons/SmallerGuildIcons.css);
 
-
 :root {
     --round: 50%;  /* 50% Round, 0% Square*/
-    --size:  40px; /* Icon Size. 40px Small, 45px Default Size */
-    --size2: 70px; /* Guild Wrapper Width. 70px Default */
-	--friends: 25px /* 25px When Public button is on. -10px when public button is off.
+    --size:  35px; /* Icon Size. 40px Small, 45px Default Size */
+	--friends: 25px /* 25px When Public button is on. -10px when public button is off. */
 }
