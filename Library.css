@@ -1,0 +1,51 @@
+.theme-dark .header-39GIC8 {
+    color: hsla(0,0%,100%,1);border-bottom: 0px solid transparent;
+    font-size: 16px;font-weight: 600;margin-top: 10px;width:550px;left:500px;
+    position:relative;border-left-color: rgba(0, 0, 0, 0);padding:0;text-transform:capitalize;}
+
+.theme-dark .header-39GIC8 .nameCell-3_ThYZ {width: 20%}
+.theme-dark .headerCell-3L6rFG {border-left-color: rgba(0, 0, 0, 0);padding:0;text-transform:capitalize}
+.theme-dark .headerCell-3L6rFG:first-child {padding-left: 0;}
+.theme-dark .rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY {border-top-color: rgba(0, 0, 0, 0)}
+.theme-dark .rowWrapper-2fB6P0 {
+    flex-direction: column;white-space: nowrap;display: inline-block;
+    justify-content: center;align-items: center;position:relative;
+    border-radius: 5px;left:10px;margin: 5px 10px 5px;
+    width:304px;height:150px;background:rgba(0, 0, 0, 0.2);
+    box-shadow:0 0 2px 1px rgba(255, 0, 0, 0.2);}
+.theme-dark .rowWrapper-2fB6P0:after {filter:blur(2px);content:"";width:100%;height:100%;background-color:red;position:relative}
+.theme-dark .rowWrapperActive-2L7i9f {background-color: rgba(79, 84, 92, 0);box-shadow: 0 2px 5px 0 rgba(0,0,0,.2);}
+
+.theme-dark .actionsCell-1awtNi {position:relative;left:-80px;top:110px;background-color:rgba(255, 0, 0, 0);animation:slidedown ease 1.5s ;transition:.3s  ease;visibility:hidden;}
+.theme-dark .rowWrapperActive-2L7i9f .actionsCell-1awtNi {visibility:visible;animation: slideup .6s ease;transition:.6s ease;top:90px}
+@keyframes slideup	{from{transform: translate(0, 100%);}}
+@keyframes slidedown	{from {transform: translate(0, -100%);}}
+
+.theme-dark .rowWrapper-2fB6P0 .lastPlayedCell-2arbtc {top:85px;right:40px;width:0;height:0;position:relative;}
+.theme-dark .rowWrapper-2fB6P0 .platformCell-XyBBs6 {width: 0;height:0;position:relative;margin-top:90px;right:-10px}
+.theme-dark .nameCellInfo-11WjkQ {overflow: visible;background-color:rgba(0, 0, 0, 0.3);position:relative;top:20px}
+.theme-dark .textCell-1aBIUP {opacity: 1;top:10px}
+.theme-dark .nameBodyCell-3JOlnK {position:relative}
+.gameIcon-3XJ9fu {margin-right: 0;position:relative;left:120px;top:-15px}
+.rowWrapper-2fB6P0 .small-xOVx-r {height: 50px;width: 50px}
+.gameIcon-gg34Dz {background-size: 100%;border-radius: 3px}
+.theme-dark .bodyCell-9xKjWE {line-height: 1.25;padding: 1px;}
+.theme-dark .settingIcons-3QYa5E {margin-right: 10px;min-width: 10px;}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {background-color: #4f545c;color: #f6f6f7;}
+.theme-dark .actionButtonSize-1Znp1q {height: 22px;min-width: 20px}
+.theme-dark .overflowIcon-235y0h {margin-left: 10px}
+
+.theme-dark .bodyCell-9xKjWE .textCell-1aBIUP .platformCell-XyBBs6 {position:absolute;bottom:10px;color:rgb(255, 0, 0)}
+.theme-dark .rowBackground-3MeNoN {filter:none;-webkit-mask:none;opacity:.7;width:19em;}
+
+.theme-dark .headerCell-3L6rFG:hover:not(.headerCellSorted-3a5AzJ) {color: hsla(0,0%,100%,1)}
+
+.sideBar-2_lxpG .large-1DtyYQ {height: 90px;width: 90px}
+.theme-dark .gameName-1W6Ym- {color: #fff;font-size:1em}
+.theme-dark .publisher-2ZxPEd {border-bottom:none;color: #ddd}
+.theme-dark .gamePreview-9weYR2 {background-color: rgba(0, 0, 0, 0.6)}
+.theme-dark .body-1SVoBw {background-color: rgba(0, 0, 0, 0)}
+.overlay-n52Tzn {-webkit-mask: none}
+.summary-2pfBY6 {  color: rgb(246, 246, 247);background-color:rgba(0, 0, 0, 0.5);}
+.news-2KwXHF,.newsLink-38Naqi:hover  {background-color: rgba(0, 0, 0, 0)}
+.background-3zYSQO {-webkit-mask:none;mask: none;}
