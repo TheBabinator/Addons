@@ -3,8 +3,6 @@
 @import url(https://satoru8.github.io/Addons/FriendsList.css);
 
 :root {
-    --color: hsla(268, 100%, 50%, 0.9);                   /*Main Color*/
-    --accent: hsl(297, 100%, 40%);                      /*Accent Color*/  	
-    --trans: rgba(0, 0, 0, 0.35);                        /*Darkness*/
-    --dark2: rgb(17, 17, 18);
-	--trans2: rgba(0, 0, 0, 0.8);}
+    --mc: hsla(268, 100%, 50%, 0.9);                   /*Main Color*/
+    --sc: hsl(297, 100%, 40%);                      /*Accent Color*/  	
+}

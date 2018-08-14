@@ -1,16 +1,16 @@
-@keyframes button	{100%{transform:scale(.90)}50%{transform:scale(1)}} 
-#friends .friends-table .friends-row:hover{background: var(--dark2);}
-#friends .tab-bar .tab-bar-item:hover:not(.selected){background-color: rgba(0,0,0,0.6);}
-#friends .friends-table .friends-row:hover{background: rgba(0,0,0,0.5);}
-#friends .friends-header{border-bottom:2px var(--color) solid !important;}
-#friends .friends-table .friends-row .friends-suggestion-inner .avatar-large{margin-right:20px;height:60px;width:60px;background-repeat:no-repeat;border-radius:3px;background-size:60px;}
-#friends .friends-table .friends-row .friends-suggestion-inner{padding:15px;}
+#friends .btn,.theme-dark #friends .friends-header .tab-bar .tab-bar-item.selected{background-color:var(--mc);color:#fff}
+#friends .tab-bar .tab-bar-item.selected {background-color: var(--mc) !important;color: #fff !important}
+#friends .tab-bar .tab-bar-item:hover:not(.selected){background-color: rgba(0,0,0,0.6)}
+#friends .friends-table .friends-row:hover{background: rgba(0,0,0,0.5)}
+#friends .friends-header{border-bottom:2px var(--mc) solid !important}
+#friends .friends-table .friends-row .friends-suggestion-inner .avatar-large{margin-right:20px;height:60px;width:60px;background-repeat:no-repeat;border-radius:3px;background-size:60px}
+#friends .friends-table .friends-row .friends-suggestion-inner{padding:15px}
 #friends .friends-header{border-bottom:1px #141416 solid !important;}
-#friends .tab-bar .tab-bar-item.selected .badge {background-color: var(--trans2);color: var(--accent);}
-#friends .tab-bar .tab-bar-item .badge {background-color: var(--trans);color: var(--color);}
+#friends .tab-bar .tab-bar-item.selected .badge-1GsMF2 {background-color: rgba(0,0,0,0.8);color: var(--sc)}
+#friends .tab-bar .tab-bar-item .badge-1GsMF2 {background-color: rgba(0,0,0,0.6);color: var(--mc)}
 #friends .friends-table .friends-row  {
     background: hsla(0, 0%, 0%, 0.5) !important;
-    box-shadow: 0px 0px 5px 1px   var(--color) !important;
+    box-shadow: 0px 0px 5px 1px   var(--mc) !important;
     border-radius: 5px !important;
     margin: 10px!important;padding: 0 !important;
     height: 130px !important;
@@ -20,24 +20,23 @@
     line-height: 0px;font-weight: 700;
     display: inline-block;
     justify-content: center;align-items: center;position:relative}
-#friends .friends-table .friends-row:hover {background-color:var(--trans2) !important;box-shadow: 0px 0px 20px 0px  var(--color) !important}
-#friends .friends-table .friends-row:active {box-shadow: 0px 0px 20px 0px  var(--color);animation: button 80ms }
-#friends .friends-table .friends-table-body {padding: 0;}
-#friends .friends-header .tab-bar .tab-bar-item .badge {
+#friends .friends-table .friends-row:hover {background-color:hsla(0, 0%, 0%, 0.7) !important;box-shadow: 0px 0px 20px 0px  var(--mc) !important}
+#friends .friends-table .friends-row:active {box-shadow: 0px 0px 20px 0px  var(--mc);animation: button 80ms }
+#friends .friends-header .tab-bar .tab-bar-item .badge-1GsMF2 {
   background: hsla(0, 0%, 0%, 0.4) !important;
-  color:  var(--color) !important;
-  opacity: 0.7;transition: opacity 500ms;}
-#friends .friends-table{margin-top: 0px;}
+  color:  var(--mc) !important;
+  opacity: 0.7;transition: opacity 500ms}
+#friends .friends-table{margin-top: 0px}
 #friends .friends-header .tab-bar .tab-bar-item,
 #friends .friends-table .friends-table-header .friends-column,
-#friends .friends-table .friends-row .friends-column-name {color:  var(--accent) !important;}
+#friends .friends-table .friends-row .friends-column-name {color:  var(--sc) !important;}
 #friends .friends-table .friends-row .friends-column-status{color: black !important}
-#friends .friends-table .friends-row:hover .username {color: var(--accent);}
+#friends .friends-table .friends-row:hover .username {color: var(--sc)}
 #friends .friends-table .friends-table-header {display: none;}
-#friends .friends-table .friends-row .avatar-small {box-shadow: none;}
-#friends .friends-table .friends-row+.friends-row {border-top: none !important;}
-#friends .friends-table .friends-row .friends-column {position: absolute;backface-visibility: hidden;}
-#friends .friends-table .friends-row .friends-column+.friends-column { margin: 0;}
+#friends .friends-table .friends-row .avatar-small {box-shadow: none}
+#friends .friends-table .friends-row+.friends-row {border-top: none !important}
+#friends .friends-table .friends-row .friends-column {position: absolute;backface-visibility: hidden}
+#friends .friends-table .friends-row .friends-column+.friends-column { margin: 0}
 #friends .friends-table .friends-row .friends-column-name .avatar-small {
   top: 15px;  left: 5px;  width: 85px;  height: 85px;
   background-size: 85px 85px;  opacity: 0.8;
@@ -46,26 +45,22 @@
 #friends .friends-table .friends-row:hover .friends-column-name .avatar-small {opacity: 1;transform: scale(1) perspective(1px);box-shadow: none}
 #friends .friends-table .friends-row .friends-column-name .discord-tag {
   display: block;position: absolute;
-  top: 20px;left: 115px;
-  text-shadow: 1px 1px 1px hsl(0, 0%, 0%);}
-#friends .friends-table .friends-row .friends-column-name .discord-tag .discriminator {visibility: visible;}
+  top: 20px;left: 115px;text-shadow: 1px 1px 1px hsl(0, 0%, 0%)}
+#friends .friends-table .friends-row .friends-column-name .discord-tag .discriminator {visibility: visible}
 #friends .friends-table .friends-row .friends-column-status .online-2S838R,
 #friends .friends-table .friends-row .friends-column-status .idle-3DEnRT,
 #friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq,
 #friends .friends-table .friends-row .friends-column-status .invisible-1kp8Z0,
 #friends .friends-table .friends-row .friends-column-status .streaming-2_dnHe,
 #friends .friends-table .friends-row .friends-column-status .offline-3qoTek,#friends .friends-table .friends-row .friends-column-status {
-  width: 100%!important;left:2px!important;height:17px !important;
-  border-radius: 5px 5px 0 0 !important;position: absolute;
-  top: 0;opacity: 0.6;z-index: 0;justify-content: center}
-#friends .friends-table .friends-row:hover .friends-column-status {opacity:1}
-#friends .friends-table .friends-row:hover .friends-column-status .status {opacity: 0.9;}
+  width: 100% !important;left:2px;justify-content: center;height:17px !important;
+  border-radius: 5px 5px 0 0 !important;top: 0;opacity: 0.7;z-index: 0}
+#friends .friends-table .friends-row:hover .friends-column-status .status {opacity: 1}
 #friends .friends-table .friends-row .friends-column-status .status-text {
-  color: hsla(0, 0%, 0%, 0.6);
-  font-weight: 800 !important;max-width: 90%;
-  font-size: 14px;line-height: normal;position:absolute;
-  transition: color 300ms;z-index: 1;}
-#friends .friends-table .friends-row:hover .friends-column-status .status-text {color: var(--color);opacity: 1}
+  color: hsla(0, 0%, 0%, 0.6);font-weight: 800 !important;
+  max-width: 90%;font-size: 14px;line-height: normal;
+  bottom:0;transition: color 300ms;position:absolute;z-index: 0}
+#friends .friends-table .friends-row:hover .friends-column-status .status-text {color: var(--mc);opacity: 1}
 #friends .friends-table .friends-table-body .friends-row .friends-column-guilds {top: 80px;left: 115px;width: 150px;display: flex !important;}
 #friends .friends-table .friends-table-body .friends-row .friends-column-guilds .avatar-small {opacity: 0.8;transition: opacity 500ms;}
 #friends .friends-table .friends-table-body .friends-row:hover .friends-column-guilds .avatar-small {opacity: 1;}
@@ -80,35 +75,38 @@
   border-radius: 5px;width: 30px;height: 30px;
   box-shadow: 1px 1px 2px hsla(0, 0%, 0%, 0.5);position: absolute;top: 0;}
 #friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn,
-#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:hover {border: 0;color: transparent !important}
+#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:hover {border: 0;color: transparent !important;}
 #friends .friends-table .friends-row .friends-column-actions {
-  top: 45px;  right: 10px;  opacity: 0;
-  transition: opacity 400ms;visibility: visible;}
-#friends .friends-table .friends-row:hover .friends-column-actions {  opacity: 0.8;}
+  top: 45px;  right: 10px;  opacity: 0;transition: opacity 400ms;visibility: visible;}
+#friends .friends-table .friends-row:hover .friends-column-actions {opacity: 0.8}
 #friends .friends-table .friends-row .friends-column-actions .friends-action {
-  width: 24px;height: 24px;
-  transform: translateX(120px);
-  transition: transform 400ms, background 400ms;}
+  width: 24px;height: 24px;transform: translateX(120px);transition: transform 400ms, background 400ms}
 #friends .friends-table .friends-row:hover .friends-column-actions .friends-action {transform: translateX(0px);}
 #friends .friends-table .friends-row .friends-column-actions .friends-action:first-child,
-#friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2) {background-color: hsla(0, 0%, 0%, 0.5);box-shadow: 0px 0px 10px 0px  var(--color) !important}
+#friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2) {background-color: hsla(0, 0%, 0%, 0.5);box-shadow: 0px 0px 10px 0px  var(--mc) !important;}
 #friends .friends-table .friends-row .friends-suggestion-inner {padding: 20px;}
-#friends .friends-table .friends-row .friends-suggestion-inner .avatar-large {border-radius: 5px;opacity: 0.6;transition: opacity 500ms;}
-#friends .friends-table .friends-row:hover .friends-suggestion-inner .avatar-large {opacity: 0.7;}
+#friends .friends-table .friends-row .friends-suggestion-inner .avatar-large {border-radius: 5px;opacity: 0.6;transition: opacity 500ms}
+#friends .friends-table .friends-row:hover .friends-suggestion-inner .avatar-large {opacity: 0.7}
 #friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .username {
-  color: hsla(0, 0%, 88%, 0.6);width: 100px;
-  white-space: nowrap;overflow: hidden;
-  text-overflow: ellipsis;transition: color 500ms;}
-#friends .friends-table .friends-row:hover .friends-suggestion-inner .friends-suggestion-info .discord-tag .username {color: hsla(0, 0%, 88%, 0.7);}
-#friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .discriminator {color: hsla(0, 0%, 88%, 0.7);visibility: visible;}
-#friends .friends-table .friends-row .friends-suggestion-inner~.friends-column-actions {display: flex;flex-direction: column;padding: 5px 25px 0 0;}
-#friends .friends-table .friends-row .friends-suggestion-inner~.friends-column-actions .friends-action:nth-child(2) {  margin: 5px 0 0 0;}
-#friends .friends-table .friends-row .friends-column-actions .friends-action:hover {background-color: hsla(122, 100%, 50%, 0.4);}
-#friends .friends-table .friends-row .friends-column-status .status.status-unknown {border: none;}
+  color: hsla(0, 0%, 88%, 0.6);width: 100px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;transition: color 500ms}
+#friends .friends-table .friends-row:hover .friends-suggestion-inner .friends-suggestion-info .discord-tag .username {color: hsla(0, 0%, 88%, 0.7)}
+#friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .discriminator {color: hsla(0, 0%, 88%, 0.7);visibility: visible}
+#friends .friends-table .friends-row .friends-suggestion-inner~.friends-column-actions {display: flex;flex-direction: column;padding: 5px 25px 0 0}
+#friends .friends-table .friends-row .friends-suggestion-inner~.friends-column-actions .friends-action:nth-child(2) {  margin: 5px 0 0 0}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {background-color: hsla(122, 100%, 50%, 0.4)}
+#friends .friends-table .friends-row .friends-column-status .status.status-unknown {border: none}
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {background-color: hsla(0, 83%, 45%, 0.5) !important}
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove:hover {background-color: hsl(0, 83%, 45%) !important}
-#friends .friends-table .friends-table-body {display: flex !important;flex-flow: row wrap !important;justify-content:inherit !important}
+#friends .friends-table .friends-table-body {padding: 0;display: flex !important;flex-flow: row wrap !important}
 .friends-table-body[class*="scroller"] .friends-row {min-width: 20%;}
 #friends .friends-table .friends-row .friends-column-actions .friends-action:first-child  {transition:600ms}
 #friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2) {transition:800ms}
 #friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(3) {transition:1000ms}
+
+.theme-dark .friends-table .messages-3amgkR .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn,
+.theme-dark #friends .friends-header .tab-bar .tab-bar-item.tab-bar-item-primary.selected{background-color:var(--color);color:#fff;}
+.theme-dark #friends .friends-header .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected){background-color:var(--accent);color:#fff;}
+.theme-dark .add-friend-input-wrapper{border-color:transparent;background-color:rgba(36,39,43,.2);background-image:linear-gradient(90deg,transparent,transparent),linear-gradient(90deg,transparent,var(--color),transparent);background-size:100% 3px;background-position:0 0,0 100%;background-repeat:no-repeat;}
+.theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-add-header{text-align:center!important;background:transparent;border-bottom:1px solid transparent;}
+.theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-suggestions-header{text-align:center;border-bottom:1px solid transparent;background-color:transparent;background-image:linear-gradient(90deg,transparent,transparent),linear-gradient(90deg,transparent,var(--color),transparent);background-size:100% 3px;background-position:0 0,0 100%;background-repeat:no-repeat;}
+
