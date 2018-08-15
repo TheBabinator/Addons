@@ -5,6 +5,8 @@
 .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp,
 .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {animation: typing 2s linear infinite;}
 
+.members-1998pB .member-3W1lQa.popout-open .status-2s6iDp {bottom: 0;right: 0;height: 33px !important;width: 33px !important}
+	
 .statusProfile-3ynqtt.status-oxiHuE {width:95% !important;height: 95%;right:0 !important;bottom:0;padding:0;}
 .listRow-hutiT_ .status-oxiHuE,.card-7JP0BX .status-oxiHuE {width:90% !important;height: 91%;border-radius: var(--round);right: 0 !important;bottom:0;padding:0;}
 .autocompleteRow-2OthDa .status-oxiHuE{width:82% !important;height: 82%;border-radius: var(--round);right: 0 !important;bottom: 0;padding: 0;}
@@ -41,3 +43,6 @@
 .title-3qD0b- .status-oxiHuE,.friends-column-status .status,.titleCall-_b9o8P .status-oxiHuE {position:relative}
 .maskProfile-1ObLFT,.mask-3OgeRz {-webkit-mask: none;mask: none;}
 .pulsingEllipsisItem-32hhWL {opacity: .9}
+
+
+

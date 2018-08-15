@@ -13,13 +13,12 @@
     border-radius: 5px;left:10px;margin: 5px 10px 5px;
     width:304px;height:150px;background:rgba(0, 0, 0, 0.2);
     box-shadow:0 0 2px 1px rgba(255, 0, 0, 0.2);}
-.theme-dark .rowWrapper-2fB6P0:after {filter:blur(2px);content:"";width:100%;height:100%;background-color:red;position:relative}
-.theme-dark .rowWrapperActive-2L7i9f {background-color: rgba(79, 84, 92, 0);box-shadow: 0 2px 5px 0 rgba(0,0,0,.2);}
+.theme-dark .rowWrapperActive-2L7i9f {background-color: rgba(79, 84, 92, 0);box-shadow: 0 2px 5px 0 rgba(0,0,0,.3);}
 
-.theme-dark .actionsCell-1awtNi {position:relative;left:-80px;top:110px;background-color:rgba(255, 0, 0, 0);animation:slidedown ease 1.5s ;transition:.3s  ease;visibility:hidden;}
+.theme-dark .actionsCell-1awtNi {position:relative;left:-80px;top:90px;background-color:rgba(255, 0, 0, 0);animation:slidedown ease 1.5s ;transition:.3s  ease;visibility:hidden;}
 .theme-dark .rowWrapperActive-2L7i9f .actionsCell-1awtNi {visibility:visible;animation: slideup .6s ease;transition:.6s ease;top:90px}
 @keyframes slideup	{from{transform: translate(0, 100%);}}
-@keyframes slidedown	{from {transform: translate(0, -100%);}}
+@keyframes slidedown	{from {transform: translate(0%, -50%);}}
 
 .theme-dark .rowWrapper-2fB6P0 .lastPlayedCell-2arbtc {top:85px;right:40px;width:0;height:0;position:relative;}
 .theme-dark .rowWrapper-2fB6P0 .platformCell-XyBBs6 {width: 0;height:0;position:relative;margin-top:90px;right:-10px}
