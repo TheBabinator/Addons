@@ -1,4 +1,4 @@
-#bd-pub-li {position: relative ;left: 5px;top:10px;background:rgba(0, 0, 0, 0.4)}
+#bd-pub-li {position: relative ;left: 5px;top:0px;background:rgba(0, 0, 0, 0.4)}
 .guildsWrapper-5TJh6A {width:calc(30px + var(--size))}
 .guildsWrapper-5TJh6A .scrollerWrap-1IAIlv {width:calc(30px + var(--size))}
 .guildsWrapper-5TJh6A .guildSeparator-1X4GQ1:after,.guildsWrapper-5TJh6A ::-webkit-scrollbar{display:none}
@@ -7,7 +7,7 @@
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4 a {width:var(--size);height:var(--size)}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before {left: -20px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,.noIcon-1a_FrS.iconSizeLarge-161qtT {line-height: 40px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;margin: 0;left:calc(-45px + var(--size))}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;margin: 0;left:calc(-40px + var(--size))}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4, .guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2 {border-radius: var(--round)!important}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .avatar-small {background-repeat: no-repeat;background-size: var(--size) var(--size);height: var(--size);width: var(--size)}
 .unreadMentionsIndicatorBottom-BXS58x, .unreadMentionsIndicatorTop-gA6RCh {padding: 10px}
