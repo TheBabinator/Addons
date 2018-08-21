@@ -1,0 +1,8 @@
+/META{"name":"Games Library","description":"Box style design. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url(https://satoru8.github.io/Addons/Library.css);
+
+:root {
+    --bg: rgba(0,0,0, .5);
+    --bc:0 0 8px 0 hsla(0, 100%, 50%, .6);
+}
