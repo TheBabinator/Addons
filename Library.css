@@ -2,14 +2,14 @@
     width:100%;height:100%;border-top:50px solid transparent;
     position:initial;display:flex;flex-flow:row wrap;align-items:center;
     overflow-y:overlay;justify-content:center}
-.gameLibrary-TTDw4Y .table-1tDS6w:only-child{margin:0}
+.gameLibrary-TTDw4Y .table-1tDS6w:only-child{margin:-10px}
 .gameLibrary-TTDw4Y .table-1tDS6w::-webkit-scrollbar{display:none}
 
 .gameLibrary-TTDw4Y .header-39GIC8{
-    width:100%;height:50px;border:none;padding:0;
+    width:100%;height:40px;border:none;padding:0;
     margin:0;position:absolute;top:0;left:0;font-size: 1em;
     display:flex;flex-flow:row;align-items:center;
-    justify-content:center;box-sizing:border-box;z-index:1}
+    justify-content:center;box-sizing:border-box;z-index:1000}
 .gameLibrary-TTDw4Y .header-39GIC8 .headerCell-3L6rFG{
     width:auto;border:none;background-color:rgba(0,0,0,.4);
     border-radius:3px;padding:5px;display:flex;text-transform:capitalize;
