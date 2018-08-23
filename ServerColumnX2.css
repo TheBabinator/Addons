@@ -1,9 +1,9 @@
 .guildsWrapper-5TJh6A{width: 120px}
 .guildsWrapper-5TJh6A .scrollerWrap-1IAIlv{width: 135px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH {display: flex;flex-flow: row wrap; padding-left: 0;align-content: flex-start}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {margin-left: 6px; margin-top: 8px;position: relative;}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {margin-left: 6px; margin-top: 8px;position: relative}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {left: -3px;top: 5px;z-index:9000}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {position: relative;margin: auto;margin-top: 5px}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {position: relative;margin: auto;margin-top: 5px;left:30px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {position: relative;width: 100%;margin-top: 1px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;width: 100%;margin: auto;margin-top: 1px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before,.theme-dark .guildSeparator-1X4GQ1:after {display: none}
