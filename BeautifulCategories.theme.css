@@ -1,6 +1,8 @@
 //META{"name":"Beautiful Categories","description":"Adds lines to the left and right of categories for channels and memberlist. Original creator lloti.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
 
-.containerDefault-3GGEv_,.membersGroup-v9BXpm  {text-align: center;display: flex;justify-content: center;align-items: center;overflow: hidden;color: #fff;opacity: 0.6;transition: .2s opacity ease-in-out}
-.containerDefault-3GGEv_:before, .containerDefault-3GGEv_:after,.membersGroup-v9BXpm:before, .membersGroup-v9BXpm:after  {content: ""; width: 100%;vertical-align: middle;height: 1px;background: #eee;display: inline-block; margin: 0 5px}
-.containerDefault-3GGEv_:hover,.membersGroup-v9BXpm:hover{opacity: 1}
-.containerDefault-3GGEv_,.membersGroup-v9BXpm  {padding: 5px}
+.containerDefault-3GGEv_,.membersGroup-v9BXpm,.privateChannels-1nO12o header  {text-align: center;display: flex;justify-content: center;align-items: center;overflow: hidden;color: #fff;opacity: 0.6;transition: .2s opacity ease-in-out}
+.containerDefault-3GGEv_:before, .containerDefault-3GGEv_:after,
+.membersGroup-v9BXpm:before, .membersGroup-v9BXpm:after,
+.privateChannels-1nO12o header:before, .privateChannels-1nO12o header:after  {content: ""; width: 100%;vertical-align: middle;height: 1px;background: #eee;display: inline-block; margin: 0 5px}
+.containerDefault-3GGEv_:hover,.membersGroup-v9BXpm:hover,.privateChannels-1nO12o header:hover {opacity: 1}
+.containerDefault-3GGEv_,.membersGroup-v9BXpm,.privateChannels-1nO12o header  {padding: 5px}
