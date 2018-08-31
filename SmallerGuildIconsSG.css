@@ -1,11 +1,13 @@
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {width:var(--size);height:var(--size);left:4px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4 a {width:var(--size);height:var(--size)}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4 a,.guildsError-3cFMtY {width:var(--size);height:var(--size)}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before {left: -20px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,.noIcon-1a_FrS.iconSizeLarge-161qtT {line-height: 40px}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,.noIcon-1a_FrS.iconSizeLarge-161qtT{line-height: 40px}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2 {padding:1px 3px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .friends-icon {height:var(--size);width: var(--size)}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4, .guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2 {border-radius: var(--round)!important}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4, .guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2,.guildsError-3cFMtY {border-radius: var(--round)!important}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .avatar-small {background-repeat: no-repeat;background-size: var(--size) var(--size);height: var(--size);width: var(--size)}
 .unreadMentionsIndicatorBottom-BXS58x, .unreadMentionsIndicatorTop-gA6RCh {padding: 10px;}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4{background: transparent}
 .guildsWrapper-5TJh6A .guildSeparator-1X4GQ1:after{display:none}
-.guildsAddInner-1KMFy- {top: -8px}
+.guildsAddInner-1KMFy- {top: -4px}
+.guildsError-3cFMtY {line-height:30px}
