@@ -1,0 +1,4 @@
+:root{--glow2: hsla(0, 100%, 50%, 0.9)}
+
+.containerCozy-jafyvG {background: hsla(0, 0%, 0%, 0.45);box-shadow: 0px 0px 5px 0px var(--glow2);margin: 15px;border-radius:15px} 
+.containerCozy-jafyvG:hover {background: hsla(0, 0%, 0%, 0.85);box-shadow: 0px 0px 10px 1px var(--glow2) }
