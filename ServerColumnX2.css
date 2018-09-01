@@ -1,13 +1,14 @@
 .guildsWrapper-5TJh6A{width: 120px}
 .guildsWrapper-5TJh6A .scrollerWrap-1IAIlv{width: 135px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH {display: flex;flex-flow: row wrap; padding-left: 0;align-content: flex-start}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {margin-left: 5px; margin-top: 5px;position: relative}
+.guildsWrapper-5TJh6A .guilds-1q_RqH {padding-bottom:35px;display: flex;flex-flow: row wrap; padding-left: 0;align-content: flex-start}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {margin-left: 5px;margin-top: 5px;position: relative;}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {left: -2px;top: 5px;z-index:9000}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {position: relative;margin: auto;left:30px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {position: relative;width: 100%}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;margin: auto}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;margin: auto;top:2px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before,.theme-dark .guildSeparator-1X4GQ1:after {display: none}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {width: 100%;display: flex;flex-flow: row wrap}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {width: 100%;display: flex;flex-flow: row wrap;}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV .guild-1EfMGQ {left: 0;top:5px}
-#bd-pub-li {position: relative;left: -35px;top:65px}
-#RANbutton-frame {left:31px;top:5px}
+.guildsWrapper-5TJh6A .dms-rcsEnV {position:relative;margin-bottom: 0px;margin-top: 5px;top:40px}
+#bd-pub-li {position: relative;left: -35px;top:60px}
+#RANbutton-frame {left:31px;bottom:35px}
