@@ -3,6 +3,6 @@
 @import url(https://satoru8.github.io/Addons/Library.css);
 
 :root {
-    --bg: rgba(0,0,0, .5);	/* Background transparency/colour */
-    --bc:0 0 8px 0 hsla(0, 100%, 50%, .6);	/* Box-shadow - https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow#Syntax */
+    --bg1: rgba(0,0,0, .5);	/* Background transparency/colour */
+    --bc1:hsla(0, 100%, 50%, .6);	/* Box-shadow  */
 }

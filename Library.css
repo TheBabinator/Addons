@@ -23,8 +23,8 @@
     flex-direction: column;white-space: nowrap;display: inline-block;
     justify-content: center;align-items: center;position:relative;box-sizing:border-box;
     border-radius: 5px;left:10px;width:304px;height:150px;margin:8px;
-    overflow:hidden;background:var(--bg);box-shadow:var(--bc)}
-.gameLibrary-TTDw4Y .rowWrapperActive-2L7i9f {background-color: var(--bg);box-shadow: 0 2px 5px 0 rgba(0,0,0,.3)}
+    overflow:hidden;background:var(--bg1);box-shadow:0 0 8px 0 var(--bc1)}
+.gameLibrary-TTDw4Y .rowWrapperActive-2L7i9f {background-color: var(--bg1);box-shadow: 0 2px 5px 0 rgba(0,0,0,.3)}
 .gameLibrary-TTDw4Y .rowBackground-3MeNoN {filter:none;-webkit-mask:none;opacity:.8;width:19em}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .nameBodyCell-3JOlnK{position:absolute;top:50%; flex-flow:column;left:0;transform:translate(0, -50%) translateZ(0);z-index:3}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0:not(.rowWrapperActive-2L7i9f) .nameBodyCell-3JOlnK>*{flex-flow:column}
