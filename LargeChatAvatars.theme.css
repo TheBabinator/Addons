@@ -15,7 +15,7 @@ margin-left:var(--margin1);margin-top:var(--margin2);
 border-radius:var(--round1);
 filter: drop-shadow(var(--shadow1))}
 .headerCozy-2N9HOL {height: 15px}
-.containerCozyBounded-1rKFAn {padding: 5px}
+#app-mount .containerCozyBounded-1rKFAn {padding: 5px}
 .container-1YxwTf .wrapper-2F3Zv8{width: calc(-10px + var(--size1));height: var(--size1)}
 .contentCozy-3XX413 {margin-left: calc(30px + var(--size1))}
 .container-1YxwTf {min-height: var(--size1);box-sizing: content-box}
