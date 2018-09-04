@@ -4,7 +4,7 @@
 	--size1: 60px; /* Avatar Size */
 	--round1: 5%;  /* Avatar roundness 50% Circle. */
 	--margin1: 0px; /* Margin left/right */
-	--margin2: 0px; /* Margin top/bottom */
+	--margin2: 3px; /* Margin top/bottom */
 	--shadow1: 0 0 1px #000; /* Shadow for transparent themes. */
 }
 
