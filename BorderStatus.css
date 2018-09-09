@@ -1,6 +1,6 @@
 #app-mount .statusProfile-3ynqtt.status-oxiHuE {
     width:96%;height: 96%;right:-2px;
-    bottom:-2px;padding:2px;margin: 0}
+    bottom:-2px;padding:1px;margin: 0}
 #app-mount .listRow-hutiT_ .status-oxiHuE, #app-mount .card-7JP0BX .status-oxiHuE {
     width:91%;height: 91%;
     border-radius: var(--round);right: -2px;
@@ -63,7 +63,8 @@
 
 .maskProfile-1ObLFT,.mask-3OgeRz {-webkit-mask: none;mask: none}
 .status-oxiHuE,.statusProfile-3ynqtt.status-oxiHuE {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
-#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp, #app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {left:-1px;background-color: rgba(0, 0, 0, 0.4);right: -0.5px}
-#app-mount .title-3qD0b- .status-oxiHuE,#app-mount .friends-column-status .status,#app-mount .titleCall-_b9o8P .status-oxiHuE {position:relative}
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status,
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {height: 28px !important;width: 28px!important;background-color: rgba(0, 0, 0, 0.4)}
+#app-mount .status-oxiHuE.animate-iYrs3- {transition:none }#app-mount .title-3qD0b- .status-oxiHuE,#app-mount .friends-column-status .status,#app-mount .titleCall-_b9o8P .status-oxiHuE {position:relative}
 #app-mount .container-2Thooq .status-2kJpnA,#app-mount .statusProfile-3ynqtt.status-oxiHuE {pointer-events: none}
 .pulsingEllipsisItem-32hhWL {opacity: .9} 
