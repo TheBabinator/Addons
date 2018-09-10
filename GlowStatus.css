@@ -14,7 +14,7 @@
     width:100% ;height: 100%;right: 0;bottom: 0}
 #app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp,
 #app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp {
-    bottom: 0;right: 0;height: 33px;width: 33px}
+    bottom: 0;right: 0!important;height: 33px;width: 33px}
 #app-mount .container-2Thooq .status-2kJpnA,.friend-2PO6ke .status{
     bottom: 0;right: 0;height: 30px;width: 30px}
 #friends .friends-table .friends-row .friends-column-status .status {
