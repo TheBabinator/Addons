@@ -32,13 +32,7 @@
 #friends .friends-table .friends-row .friends-column-name .discord-tag {
   display: block;position: absolute;top: 20px;left: 115px;text-shadow: 1px 1px 1px hsl(0, 0%, 0%)}
 #app-mount #friends .friends-table .friends-row .friends-column-name .discord-tag .discriminator {visibility: visible}
-#app-mount #friends .friends-table .friends-row .friends-column-status .online-2S838R,
-#app-mount #friends .friends-table .friends-row .friends-column-status .idle-3DEnRT,
-#app-mount #friends .friends-table .friends-row .friends-column-status .dnd-1_xrcq,
-#app-mount #friends .friends-table .friends-row .friends-column-status .invisible-1kp8Z0,
-#app-mount #friends .friends-table .friends-row .friends-column-status .streaming-2_dnHe,
-#app-mount #friends .friends-table .friends-row .friends-column-status .offline-3qoTek, 
-#app-mount #friends .friends-table .friends-row .friends-column-status .unknown-Ms2zdV,
+#app-mount #friends .friends-table .friends-row .friends-column-status .status,
 #app-mount #friends .friends-table .friends-row .friends-column-status {
   width: 100% ;left:2px;justify-content: center;height:17px;
   border-radius: 5px 5px 0 0 ;top: 0;opacity: 0.7;z-index: 0}
