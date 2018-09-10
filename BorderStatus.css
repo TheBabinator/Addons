@@ -11,7 +11,7 @@
 #app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp,#app-mount .container-2Thooq .status-2kJpnA,
 #app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp,#app-mount .private-channels .status {
     border-radius: var(--round);background-clip: padding-box;
-    bottom: -1px;right: -1px;height: 28px;width: 28px}
+    bottom: -1px;right: -1px!important;height: 28px;width: 28px}
 
 #app-mount .autocompleteRow-2OthDa .online-2S838R, 
 #app-mount .listRow-hutiT_ .online-2S838R,
