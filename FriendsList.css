@@ -1,13 +1,8 @@
-#app-mount #friends .friends-table .friends-row:hover{background: rgba(0,0,0,0.5)}
-#app-mount #friends .friends-header{border-bottom:2px var(--mc) solid}
-#app-mount #friends .friends-table .friends-row .friends-suggestion-inner .avatar-large{margin-right:20px;height:60px;width:60px;background-repeat:no-repeat;border-radius:3px;background-size:60px}
-#app-mount #friends .friends-table .friends-row .friends-suggestion-inner{padding:15px}
-#app-mount #friends .friends-header{border-bottom:1px #141416 solid}
 #app-mount #friends .friends-table .friends-row  {
-    background: hsla(0, 0%, 0%, 0.5) ;box-shadow: 0px 0px 5px 1px   var(--mc) ;
-    border-radius: 6px ;margin: 10px;padding: 0 ;height: 130px !important;
+    background: hsla(0, 0%, 0%, 0.5) ;box-shadow: 0px 0px 5px 1px var(--mc);
+    border-radius: 6px ;margin: 10px;padding: 0 ;height: 18vh !important;
     flex-direction: column ;flex-basis: 300px ;transition: opacity 300ms;
-    white-space: nowrap;width: 320px;line-height: 0px;font-weight: 700;
+    white-space: nowrap;width: 23vw;line-height: 0;font-weight: 700;
     display: inline-block;justify-content: center;align-items: center;position:relative}
 #app-mount #friends .friends-table .friends-row:hover {background-color:hsla(0, 0%, 0%, 0.75) ;box-shadow: 0px 0px 20px 0px  var(--mc)}
 #app-mount #friends .friends-table .friends-row:active {box-shadow: 0px 0px 20px 0px  var(--mc);animation: button 80ms }
