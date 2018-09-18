@@ -1,3 +1,4 @@
+@media (max-width:1300px){#friends .friends-table .friends-column-guilds{display:inline-flex !important}}
 #app-mount #friends .friends-table .friends-row  {
     background: hsla(0, 0%, 0%, 0.5) ;box-shadow: 0px 0px 5px 1px var(--mc);
     border-radius: 6px ;margin: 10px;padding: 0 ;height: 130px !important;
