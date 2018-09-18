@@ -1,0 +1,6 @@
+div[class^=container-] div[class*=wrapper] > div[class*=name],.membersGroup-v9BXpm,.privateChannels-1nO12o header  {text-align: center;display: flex;justify-content: center;align-items: center;overflow: hidden;color: var(--NameColour);opacity: 0.6;transition: .2s opacity ease-in-out}
+div[class^=container-] div[class*=wrapper] > div[class*=name]:before, div[class^=container-] div[class*=wrapper] > div[class*=name]:after,
+.membersGroup-v9BXpm:before, .membersGroup-v9BXpm:after,
+.privateChannels-1nO12o header:before, .privateChannels-1nO12o header:after  {content: ""; width: 100%;vertical-align: middle;height: 1px;background: var(--LineColour);display: inline-block; margin: 0 5px}
+.containerDefault-3GGEv_:hover,.membersGroup-v9BXpm:hover,.privateChannels-1nO12o header:hover {opacity: 1}
+.containerDefault-3GGEv_,.membersGroup-v9BXpm,.privateChannels-1nO12o header  {padding: 5px}
