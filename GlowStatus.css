@@ -85,7 +85,7 @@
 #friends .friends-table .friends-row .friends-column-status .unknown-Ms2zdV {background-color: transparent;box-shadow:0 0 5px 2px #747f8d}
 
 #app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
-#app-mount .status {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
+#app-mount .status,.avatar-small,.image-33JSyf, .wrapper-2F3Zv8,.status-2s6iDp,.statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
 #app-mount .title-3qD0b- .status-oxiHuE,#app-mount .friends-column-status .status,#app-mount .titleCall-_b9o8P .status-oxiHuE {position:relative}
 #app-mount .container-2Thooq .status-2kJpnA,#app-mount .statusProfile-3ynqtt.status-oxiHuE {pointer-events: none}
 #app-mount .pulsingEllipsisItem-32hhWL {opacity: .9} 
