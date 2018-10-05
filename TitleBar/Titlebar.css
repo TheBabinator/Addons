@@ -7,13 +7,14 @@
 .wordmark-2iDDfm,.winButtonMinMax-PBQ2gm svg, .winButtonClose-1HsbF- svg {display: none}
 .titleBar-AC4pGV:after {background:rgba(255, 0, 0, 0);content:"";position:relative;height:14px;width:100vw;top:-15px;left:85px;-webkit-app-region:drag}
 .titleBar-AC4pGV{position:absolute;top:0px;right:0;padding:15px 0 0 0;z-index:401}
+.winButton-iRh8-Z {left:-6px}
 .winButtonMinMax-PBQ2gm {opacity:1;background: url("https://cdn.rawgit.com/satoru8/Icons/18071bd1/fullscreen.svg") center}
 .winButtonMinMax-PBQ2gm:last-child {background: url("https://cdn.rawgit.com/satoru8/Icons/18071bd1/remove.svg") center}
 .winButtonClose-1HsbF- {opacity:1;background: url("https://cdn.rawgit.com/satoru8/Icons/18071bd1/close.svg") center; background-color: rgba(0, 0, 0, 0)}
 .winButtonClose-1HsbF-:hover {background-color: rgba(245, 245, 245, 0.1)}
-.titleCall-_b9o8P,.headerBar-UHpsPw{padding-right:96px}
+.titleCall-_b9o8P,.headerBar-UHpsPw{padding-right:90px}
 .theme-dark .iconBadge-2dji3k {left:12px}
 .theme-dark .topic-2QX7LI {color:#fff}
 .title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci,
 .titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci,
-.headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci{margin-right:72px}
+.headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci{margin-right:0px}
