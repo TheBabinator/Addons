@@ -1,0 +1,73 @@
+/* Animations */
+@keyframes button	{100%{transform:scale(.90)}50%{transform:scale(1)}} 
+@keyframes buttonM	{100%{transform:scale(.80)}50%{transform:scale(1)}} 
+@keyframes buttonL	{100%{transform:scale(.70)}50%{transform:scale(1)}} 
+@keyframes wobble	{0%,100%{transform:rotate(20deg)}50%{transform:rotate(-20deg)}}
+@keyframes scare	{0%,100%{transform:rotate(9deg)}50%{transform:rotate(-9deg)}}
+@keyframes hourglass{0%,100%,41%{transform:rotate(0)}20%,40%{transform:rotate(-180deg)}}
+@keyframes rotate 	{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+@keyframes rotate2 	{0%{transform:rotate(0)}25%{transform:rotate(90deg)}50%{transform:rotate(180deg)}75%{transform:rotate(270deg)}100%{transform:rotate(360deg)}}
+@keyframes rofl 	{0%{transform:rotate(45deg)}100%{transform:rotate(404deg)}}
+@keyframes heartbeat{0%,100%,40%,80%{transform:scale(.75)}20%,60%{transform:scale(1)}}
+@keyframes joy 		{0%,100%,50%{transform:scale(.9)}25%,75%{transform:scale(1)}}
+@keyframes boom 	{0% {transform:scale(.1)}20% {transform:scale(1)}80% {transform:scale(1);opacity: 1;}100%{opacity: 0;}}
+@keyframes bomb 	{0%,100%,20%{transform:scale(1)}90%{transform:scale(.6)}95%{transform:scale(1.5)}}
+@keyframes eyes 	{0%,25%,75%{transform:scaleX(1)}50%,100%{transform:scaleX(-1)}}
+@keyframes mmlol 	{0% { transform: rotate(0deg); }69% { transform: rotate(0deg); }70% { transform: rotate(-90deg); }99% { transform: rotate(-90deg); }100% { transform: rotate(0deg); }}
+@keyframes vibrate 	{25%{transform: translateX(3px) translateY(-2px)}50%{transform: translateX(-1px) translateY(3px)}75%{transform: translateX(-4px) translateY(-2px)}100%{transform: translateX(2px) translateY(-1px)}}
+@keyframes focusborder	{0%{border-bottom:2px solid var(--color);}
+25%{border-right:2px solid var(--color);border-bottom:2px solid var(--color);}
+50%{border-top:2px solid var(--color);border-right:2px solid var(--color);border-bottom:2px solid var(--color);}
+100%{border-left:2px solid var(--color);border-top:2px solid var(--color);border-right:2px solid var(--color);border-bottom:2px solid var(--color);}}
+@keyframes folding	{0%{transform:rotateX(-90deg);transform:rotateX(-90deg);}100%{transform:none;transform:none;}}
+@keyframes sliding	{0%{transform:rotateY(-90deg);transform:rotateY(-90deg);}100%{transform:none;transform:none;}}
+@keyframes toppopout	{from{transform:translate(0,-55px);transform:translate(0,-55px);opacity:0}}
+@keyframes slide-up	{from{transform: translate(0, 100%);}}
+@keyframes slide-down	{from {transform: translate(0, -100%);}}
+@keyframes slide-left	{from {transform: translate(-100);}}
+@keyframes slide-right	{from {transform: translate(100%);}}
+@keyframes show-status	{from {transform: translateY(100%) translateX(0%) translateZ(0px);}}
+@keyframes status	{from {transform: scale(0);opacity: 0}}
+@keyframes context-open-invertY	{0% {padding-top: 0px;padding-bottom: 0px;margin-top: 0px;}}
+@keyframes context-open	{0% {transform: scale(1, 0.8);}}
+@keyframes popout-inner	{0% {transform: scale(2);}  100% {transform: scale(1);}}
+@keyframes popout	{0% {transform: scale(0);}100% {transform: scale(1);}}
+@keyframes connected	{0%{transform:translate(0,60px);transform:translate(0,60px)}100%{transform:translate(0,0px);transform:translate(0,0px)}}
+@keyframes images-search	{from{opacity:0;transform:scale(0.3) translate3d(0,0,0);} to{opacity:1;transform:scale(1) translate3d(0,0,0);}}
+@keyframes typing { 50% {opacity: .4;}}
+@keyframes statuspicker {from {opacity: 0;transform: translate(0, 50%);}to {opacity: 1;}}50%)}to {opacity: 1}}
+
+/* Emoji */
+img[alt*=":heart:"],img[alt*=":hearts:"], 
+img[alt*=":green_heart:"],img[alt*=":blue_heart:"], 
+img[alt*=":purple_heart:"],img[alt*=":yellow_heart:"], 
+img[alt*=":heartbeat:"],img[alt*=":heartpulse:"], 
+img[alt*=":black_heart:"],img[alt*=":sparkling_heart:"] { animation: heartbeat 2s infinite;}
+img[alt*=":money_with_wings:"] {animation: wobble 2s infinite;}
+img[alt*=":kiss:"] {animation: heartbeat 1s infinite;}
+img[alt*=":hammer:"] {animation: wobble 0.5s infinite;}
+img[alt*=":pick:"] {animation: wobble 0.5s infinite;}
+img[alt*=":bomb:"] {animation: bomb 2s infinite;}
+img[alt*=":boom:"] {animation: boom 2s infinite;}
+img[alt*=":eyes:"] {animation: eyes 4s infinite;animation-timing-function:steps(1);}
+img[alt*=":laughing:"] {transform: rotate(-90deg);}
+img[alt*=":heart_eyes:"] {animation: heartbeat 1s infinite;}
+img[alt*=":joy:"] {animation: joy 2s infinite;}
+img[alt*=":upside_down:"] {animation: wobble 2s infinite;}
+img[alt*=":scream:"], img[alt*=":scream_cat:"] {animation: scare 2s infinite;}
+img[alt*=":rofl:"] {animation: rofl 2s infinite;}
+img[alt*=":sneezing_face:"] {animation: wobble 1s infinite;}
+img[alt*=":joy_cat:"] {animation: joy 2s infinite;}
+img[alt*=":heart_eyes_cat:"] {animation: heartbeat 1s infinite;}
+img[alt*=":wave:"] {animation: wobble 2s infinite;}
+img[alt*=":angry:"], .emoji[alt*="Angery"], .emoji[alt*="Thonkery"] {animation: vibrate 0.2s infinite;}
+img[alt*=":soccer:"] {animation: rotate 2s infinite;} 
+img[alt*=":basketball:"] {animation: rotate 2s infinite;}
+img[alt*=":baseball:"] {animation: rotate 2s infinite;} 
+img[alt*=":tennis:"] {animation: rotate 2s infinite;}
+img[alt*=":gear:"] {animation: rotate 2s infinite;}
+img[alt*=":cd:"], img[alt*=":dvd:"] {animation: rotate 2s infinite;} 
+img[alt*=":snowflake:"] {animation: rotate 2s infinite;}
+img[alt*=":sunny:"] {animation: rotate 2s infinite;}
+img[alt*=":hourglass:"] {animation: hourglass 2s infinite;}
+.emoji[alt*="mmLol"] {animation: mmlol 5s infinite;}
