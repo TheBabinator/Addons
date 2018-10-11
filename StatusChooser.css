@@ -1,6 +1,6 @@
 @keyframes button	{100%{transform:scale(.90)}50%{transform:scale(1)}} 
 @keyframes statuspicker {from {opacity: 0;transform: translate(0, 50%);}to {opacity: 1}}
-.popout-3sVMXz.popoutTop-3uu9vG-left {box-shadow: none}
+.popout-3sVMXz.popoutTopLeft-b5Eb3O {box-shadow:none}
 
 #app-mount .menu-Sp6bN1.alt-3btY0e {
     display:inline-block;
