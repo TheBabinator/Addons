@@ -7,7 +7,7 @@
     animation-fill-mode: forwards;
     margin: 10px;background:var(--bg);
     border-radius: 10px;
-    position: fixed;pointer-events: inherit;
+    position: relative;pointer-events: inherit;
     left: 10px;bottom: 0;width: auto;z-index: 10;
     transform: translate3d(0,0,0)}
 #app-mount .menu-Sp6bN1.alt-3btY0e .item-1GzJrl {
