@@ -1,0 +1,24 @@
+//META{"name":"Glow Badges","description":"Glowing badges with option to change colour for each. Works with Badges Everywhere plugin. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+/* 
+The options should be self explanatory.  
+
+The first setting  is how much glow effect you want. 
+You can pick a colour for each badge below.
+Remove the hex code if you dont want a specifc badge to glow. 
+*/
+
+@import url('https://satoru8.github.io/Addons/GlowBadges/glowbadges.css);
+
+
+:root {
+	
+    --glow: 2px; /* Default - 2px */
+
+    --nitro: #cc8400 ; /* Default - #cc8400 */
+    --early: #cc8400 ;
+    --brave: #cc8400 ;
+    --bril: #cc8400 ;
+    --bal: #cc8400 ;
+	
+}
