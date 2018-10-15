@@ -34,7 +34,7 @@
 
 #app-mount .container-2Thooq .status-2kJpnA,#app-mount .statusProfile-3ynqtt.status-oxiHuE {pointer-events: none}
 #app-mount .pulsingEllipsisItem-32hhWL {opacity: .9} 
-#app-mount .pulsingEllipsis-3YiXRF {left:5px}
+#app-mount .pulsingEllipsis-3YiXRF {left:2px}
 #app-mount .status,#app-mount .status-oxiHuE{border:none}
 #app-mount .status-oxiHuE.animate-iYrs3- {transition:none }
 @keyframes typing { 50% {opacity: .4}}
