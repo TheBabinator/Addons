@@ -1,75 +1,40 @@
-#app-mount .statusProfile-3ynqtt.status-oxiHuE {
-    width:96%;height: 96%;right:-2px;
-    bottom:-2px;padding:1px;margin: 0}
+#app-mount .member-3W1lQa:hover .content-OzHfo4 .status-2s6iDp,
+#app-mount .member-3W1lQa .content-OzHfo4 .status-2s6iDp,
+#app-mount .privateChannels-1nO12o .channel-2QD9_O .status,
+#app-mount .privateChannels-1nO12o .channel-2QD9_O:hover .status {border-color: transparent}
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {left:-2px;height: 100% !important;width: 100%!important;background-color: rgba(0, 0, 0, 0.4);animation: typing 1.5s linear infinite}
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {left:-2px;height: 100% !important;width: 100%!important;background-color: rgba(0, 0, 0, 0.4);animation: typing 1.5s linear infinite}
+
+#app-mount .statusProfile-3ynqtt.status-oxiHuE,
 #app-mount .listRow-hutiT_ .status-oxiHuE, 
-#app-mount .card-7JP0BX .status-oxiHuE {
-    width:91%;height: 91%;right: -2px;
-    bottom:-2px;padding:2px;margin: 0}
-#app-mount .autocompleteRow-2OthDa .status-oxiHuE{
-    width:82% ;height: 82%;right: -2px;
-    bottom: -2px;padding: 2px}
-#app-mount .friend-2PO6ke .status,
-#app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp,#app-mount .container-2Thooq .status-2kJpnA,
-#app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp,#app-mount .privateChannels-1nO12o .status {
-    bottom: -1px;right: -1px!important;height: 28px;width: 28px}
+#app-mount .card-7JP0BX .status-oxiHuE,
+#app-mount .privateChannels-1nO12o .status,
+#app-mount .autocompleteRow-2OthDa .status-oxiHuE,
+#app-mount .container-1YxwTf .status-oxiHuE,
+#app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp,
+#app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp,
+#app-mount .container-2Thooq .status-2kJpnA,.friend-2PO6ke .status {
+    width:100%;height: 100%;right: -2px;bottom:-2px;
+}
 
-#app-mount .friend-2PO6ke .online-2S838R,
-#app-mount .autocompleteRow-2OthDa .online-2S838R, 
-#app-mount .listRow-hutiT_ .online-2S838R,
-#app-mount .card-7JP0BX .online-2S838R,
-#app-mount .statusProfile-3ynqtt.online-2S838R,
-#app-mount .privateChannels-1nO12o .online-2S838R, 
-#app-mount .container-2Thooq .online-2S838R,
-#app-mount .members-1998pB .content-OzHfo4 .online-2S838R {background-color: transparent;border:2px solid #43b581}
+#app-mount .online-2S838R {background-color: transparent;border:2px solid #43b581 !important}
+#app-mount .streaming-2_dnHe {background-color: transparent;border:2px solid #593695 !important}
+#app-mount .dnd-1_xrcq {background-color: transparent;border:2px solid #f04747 !important}
+#app-mount .idle-3DEnRT {background-color: transparent;border:2px solid #faa61a !important}
+#app-mount .invisible-1kp8Z0{background-color: transparent;border:2px solid #1a36fa !important}
+#app-mount .offline-3qoTek,
+#app-mount .unknown-Ms2zdV {background-color: transparent;border:2px solid #747f8d !important}
 
-#app-mount .friend-2PO6ke .streaming-2_dnHe,
-#app-mount .autocompleteRow-2OthDa .streaming-2_dnHe, 
-#app-mount .listRow-hutiT_ .streaming-2_dnHe,
-#app-mount .card-7JP0BX .streaming-2_dnHe,
-#app-mount .statusProfile-3ynqtt.streaming-2_dnHe,
-#app-mount .privateChannels-1nO12o .streaming-2_dnHe,
-#app-mount .container-2Thooq .streaming-2_dnHe,
-#app-mount .members-1998pB .content-OzHfo4 .streaming-2_dnHe {background-color: transparent;border: 2px solid #593695}
+#app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
+#app-mount .status,.status-oxiHuE,.avatar-small,.image-33JSyf,
+.wrapper-2F3Zv8,.status-2s6iDp,.statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
+#app-mount .title-3qD0b- .status-oxiHuE,
+#app-mount .friends-column-status .status,
+#app-mount .titleCall-_b9o8P .status-oxiHuE {position:relative}
 
-#app-mount .friend-2PO6ke .dnd-1_xrcq,
-#app-mount .autocompleteRow-2OthDa .dnd-1_xrcq, 
-#app-mount .listRow-hutiT_ .dnd-1_xrcq,
-#app-mount .card-7JP0BX .dnd-1_xrcq,
-#app-mount .statusProfile-3ynqtt.dnd-1_xrcq,
-#app-mount .privateChannels-1nO12o .dnd-1_xrcq,
-#app-mount .container-2Thooq .dnd-1_xrcq,
-#app-mount .members-1998pB .content-OzHfo4 .dnd-1_xrcq {background-color: transparent;border:2px solid #f04747}
-
-#app-mount .friend-2PO6ke .idle-3DEnRT,
-#app-mount .autocompleteRow-2OthDa .idle-3DEnRT, 
-#app-mount .listRow-hutiT_ .idle-3DEnRT,
-#app-mount .card-7JP0BX .idle-3DEnRT,
-#app-mount .statusProfile-3ynqtt.idle-3DEnRT,
-#app-mount .privateChannels-1nO12o .idle-3DEnRT,
-#app-mount .container-2Thooq .idle-3DEnRT,
-#app-mount .members-1998pB .content-OzHfo4 .idle-3DEnRT {background-color: transparent;border:2px solid #faa61a}
-
-#app-mount .autocompleteRow-2OthDa .invisible-1kp8Z0, 
-#app-mount .listRow-hutiT_ .invisible-1kp8Z0,
-#app-mount .card-7JP0BX .invisible-1kp8Z0,
-#app-mount .statusProfile-3ynqtt.invisible-1kp8Z0,
-#app-mount .privateChannels-1nO12o .invisible-1kp8Z0,
-#app-mount .container-2Thooq .invisible-1kp8Z0,
-#app-mount .members-1998pB .content-OzHfo4 .invisible-1kp8Z0{background-color: transparent;border:2px solid #1a36fa}
-#app-mount .friend-2PO6ke .offline-3qoTek,
-#app-mount .autocompleteRow-2OthDa .offline-3qoTek, 
-#app-mount .listRow-hutiT_ .offline-3qoTek, 
-#app-mount .card-7JP0BX .offline-3qoTek, 
-#app-mount .statusProfile-3ynqtt.offline-3qoTek, 
-#app-mount .privateChannels-1nO12o .offline-3qoTek, 
-#app-mount .container-2Thooq .offline-3qoTek, 
-#app-mount .members-1998pB .content-OzHfo4 .offline-3qoTek {background-color: transparent;border:2px solid #747f8d}
-
-.maskProfile-1ObLFT,.mask-3OgeRz {-webkit-mask: none;mask: none}
-#app-mount .status-oxiHuE,#app-mount .status {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
-#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status,
-#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {height: 28px !important;width: 28px!important;background-color: rgba(0, 0, 0, 0.4)}
-#app-mount .status-oxiHuE.animate-iYrs3- {transition:none }
-#app-mount .title-3qD0b- .status-oxiHuE,#app-mount .friends-column-status .status,#app-mount .titleCall-_b9o8P .status-oxiHuE {position:relative}
 #app-mount .container-2Thooq .status-2kJpnA,#app-mount .statusProfile-3ynqtt.status-oxiHuE {pointer-events: none}
-.pulsingEllipsisItem-32hhWL {opacity: .9} 
+#app-mount .pulsingEllipsisItem-32hhWL {opacity: .9} 
+#app-mount .pulsingEllipsis-3YiXRF {left:2px}
+#app-mount .status,#app-mount .status-oxiHuE{border:none}
+#app-mount .status-oxiHuE.animate-iYrs3- {transition:none }
+@keyframes typing { 50% {opacity: .4}}
