@@ -31,7 +31,7 @@
 #app-mount .idle-3DEnRT {background-color: transparent;box-shadow:0 0 var(--glow) var(--idle) !important}
 #app-mount .invisible-1kp8Z0{background-color: transparent;box-shadow:0 0 var(--glow) var(--invis) !important}
 #app-mount .offline-3qoTek,
-#app-mount .unknown-Ms2zdV {background-color: transparent;box-shadow:0 0 5px 2px var(--offline) !important}
+#app-mount .unknown-Ms2zdV {background-color: transparent;box-shadow:0 0 var(--glow) var(--offline) !important}
 
 #app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
 #app-mount .status,.status-oxiHuE,.avatar-small,.image-33JSyf,
