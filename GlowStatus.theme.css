@@ -1,5 +1,14 @@
-//META{"name":"GlowStatus","description":"Adjustable radial status, with glow effect & larger avatars. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.5","website":"http://discord.gg/fjvwb95"}*//{}
+//META{"name":"GlowStatus","description":"Adjustable radial status, with glow effect & larger avatars. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.8","website":"http://discord.gg/fjvwb95"}*//{}
 
 @import url(https://satoru8.github.io/Addons/GlowStatus.css);
 
-:root {--round: 50%} /* 10% Square, 50% Circle */
+:root {
+    --round: 50%; /* 0% Square, 50% Circle */
+    --glow: 5px 2px; /* Blur/Thickness Default: 5px 2px */
+    --online: #43b581;
+    --offline: #747f8d;
+    --idle: #faa61a;
+    --stream: #593695;
+    --dnd: #f04747;
+    --invis: #1a36fa;
+} 
