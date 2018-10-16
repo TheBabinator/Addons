@@ -26,7 +26,7 @@
     overflow:hidden;background:var(--bg1);box-shadow:0 0 8px 0 var(--bc1)}
 .gameLibrary-TTDw4Y .rowWrapperActive-2L7i9f {background-color: var(--bg1);box-shadow: 0 2px 5px 0 rgba(0,0,0,.3)}
 .gameLibrary-TTDw4Y .rowBackground-3MeNoN {filter:none;-webkit-mask:none;opacity:.8;width:19em}
-.gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .nameBodyCell-3JOlnK{position:absolute;top:50%; flex-flow:column;left:0;transform:translate(0, -50%) translateZ(0);z-index:3}
+.gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .nameBodyCell-3JOlnK{position:absolute;top:50%;flex-flow:column;left:0;transform:translate(0, -51%) translateZ(0);z-index:1}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0:not(.rowWrapperActive-2L7i9f) .nameBodyCell-3JOlnK>*{flex-flow:column}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .row-ZLfFhY{min-height:100%;border:none !important;margin:0;display:flex;flex-flow:column;box-sizing:border-box}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .bodyCell-9xKjWE{min-width:100%;top:80px;padding:0;line-height:normal;align-items:center;justify-content:center}
@@ -34,7 +34,7 @@
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .nameBodyCell-3JOlnK>*{align-items:center}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .nameBodyCell-3JOlnK .nameCellInfo-11WjkQ,.nameCellText-1mpqtF{max-width:160px;text-shadow:0 2px 5px rgba(0,0,0,1)}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .platformCell-XyBBs6,
-.gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .lastPlayedCell-2arbtc{min-height:17px;max-height:17px;text-shadow:0 2px 5px rgba(0,0,0,1)}
+.gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .lastPlayedCell-2arbtc{min-height:17px;max-height:17px;text-shadow:0 1px 2px rgba(0,0,0,1);}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .platformCell-XyBBs6>*,
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .lastPlayedCell-2arbtc>*{font-size:.8em;font-weight:600;text-transform:uppercase}
 .gameLibrary-TTDw4Y .rowWrapper-2fB6P0 .gameIcon-gg34Dz {position:relative;top:2px;height: 50px;width: 50px;background-size: 100%;border-radius: 4px;margin:0 5px 5px 0;filter:drop-shadow(0 2px 5px rgba(0,0,0,0.3))}
@@ -47,6 +47,8 @@
 .gameLibrary-TTDw4Y .settingIcons-3QYa5E {margin-right: 0;min-width: 10px}
 .gameLibrary-TTDw4Y .buttonText-13IoY7 {padding: 2px 6px}
 .gameLibrary-TTDw4Y .actionButtonSize-1Znp1q {height: 22px;min-width: 40px;left:10px}
+.gameLibrary-TTDw4Y .buttonWrapper-3hUFmE {height: 65%}
+.gameLibrary-TTDw4Y .icon-1IKq3C, .gameLibrary-TTDw4Y .textCell-1aBIUP {color: #ff0000}
 
 .sideBar-2_lxpG .lookFilled-1Gx00P.colorGreen-29iAKY {background-color: rgba(99, 99, 99, 0.7);color: #fff;width:0;left:25px}
 .sideBar-2_lxpG .lookFilled-1Gx00P.colorGreen-29iAKY:hover {background-color: rgba(31, 154, 9, 0.7)}
