@@ -1,10 +1,10 @@
 #app-mount code {
-	background-color: rgba(0,0,0,0.6);
-	background-image: linear-gradient(rgba(0,0,0,0.5) 50%,transparent 50%);
-	background-origin: content-box;
-	background-position: 0 0;
-	background-size: 100% 3em;
-	line-height: 1.5
+	background-color: rgba(0,0,0,0.6)!important;
+	background-image: linear-gradient(rgba(0,0,0,0.5) 50%,transparent 50%)!important;
+	background-origin: content-box!important;
+	background-position: 0 0!important;
+	background-size: 100% 3em!important;
+	line-height: 1.5!important
 }
 #app-mount .markup-2BOw-j pre {background: transparent;border-color: transparent}
 	
