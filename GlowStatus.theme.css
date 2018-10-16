@@ -4,7 +4,7 @@
 
 :root {
     --round: 50%; /* 0% Square, 50% Circle */
-    --glow: 5px 2px; /* Blur/Thickness Default: 5px 2px */
+    --sglow: 5px 2px; /* Blur/Thickness Default: 5px 2px */
     --online: #43b581;
     --offline: #747f8d;
     --idle: #faa61a;

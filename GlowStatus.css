@@ -25,13 +25,13 @@
 @media (max-width:1300px){#friends .friends-table .friends-column-name{width:200px !important}}
 @media (max-width:1300px) {#friends .friends-table .friends-column-guilds{display:inline-flex !important}}
 
-#app-mount .online-2S838R {background-color: transparent;box-shadow:0 0 var(--glow) var(--online) !important}
-#app-mount .streaming-2_dnHe {background-color: transparent;box-shadow:0 0 var(--glow) var(--stream) !important}
-#app-mount .dnd-1_xrcq {background-color: transparent;box-shadow:0 0 var(--glow) var(--dnd) !important}
-#app-mount .idle-3DEnRT {background-color: transparent;box-shadow:0 0 var(--glow) var(--idle) !important}
-#app-mount .invisible-1kp8Z0{background-color: transparent;box-shadow:0 0 var(--glow) var(--invis) !important}
+#app-mount .online-2S838R {background-color: transparent;box-shadow:0 0 var(--sglow) var(--online) !important}
+#app-mount .streaming-2_dnHe {background-color: transparent;box-shadow:0 0 var(--sglow) var(--stream) !important}
+#app-mount .dnd-1_xrcq {background-color: transparent;box-shadow:0 0 var(--sglow) var(--dnd) !important}
+#app-mount .idle-3DEnRT {background-color: transparent;box-shadow:0 0 var(--sglow) var(--idle) !important}
+#app-mount .invisible-1kp8Z0{background-color: transparent;box-shadow:0 0 var(--sglow) var(--invis) !important}
 #app-mount .offline-3qoTek,
-#app-mount .unknown-Ms2zdV {background-color: transparent;box-shadow:0 0 var(--glow) var(--offline) !important}
+#app-mount .unknown-Ms2zdV {background-color: transparent;box-shadow:0 0 var(--sglow) var(--offline) !important}
 
 #app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
 #app-mount .status,.status-oxiHuE,.avatar-small,.image-33JSyf,
