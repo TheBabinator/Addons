@@ -1,24 +1,13 @@
-//META{"name":"Large Chat Avatars","description":"Larger chat avatars. Adjustable size. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.1","website":"http://discord.gg/fjvwb95"}*//{}
+//META{"name":"Large Chat Avatars","description":"Larger chat avatars. Adjustable size. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.2","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url(https://satoru8.github.io/Addons/LargeChatAvatars.css);
 
 :root {
+	
 	--size1: 60px; /* Avatar Size */
 	--round1: 5%;  /* Avatar roundness 50% Circle. */
 	--margin1: 0px; /* Margin left/right */
-	--margin2: 3px; /* Margin top/bottom */
+	--margin2: 0px; /* Margin top/bottom */
 	--shadow1: 0 0 1px #000; /* Shadow for transparent themes. */
 	--compact: 5px;    /* Default 5px, Non-compact 15px. This makes the chat msgs a bit more compact by default. */
 }
-
-.containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB {
-background-size: var(--size1) var(--size1);
-height: var(--size1);width: var(--size1);
-margin-left:var(--margin1);margin-top:var(--margin2);
-border-radius:var(--round1);
-filter: drop-shadow(var(--shadow1))}
-.headerCozy-2N9HOL {height: 15px}
-.messagesWrapper-3lZDfY .containerCozyBounded-1rKFAn {padding: var(--compact)}
-.container-1YxwTf .wrapper-2F3Zv8{width: calc(-10px + var(--size1));height: var(--size1)}
-.contentCozy-3XX413 {margin-left: calc(30px + var(--size1))}
-.container-1YxwTf {min-height: var(--size1);box-sizing: content-box}
-.containerCozy-jafyvG {margin: 0;padding: 15px 0}
-.container-1YxwTf .divider-32i8lo {position:absolute;bottom:15px;width:100%}
