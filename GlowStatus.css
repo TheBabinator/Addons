@@ -35,8 +35,10 @@
 #app-mount .unknown-Ms2zdV {background-color: transparent;box-shadow:0 0 var(--sglow) var(--offline) !important}
 
 #app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
-#app-mount .status,.status-oxiHuE,.avatar-small,.image-33JSyf,
-.wrapper-2F3Zv8,.status-2s6iDp,.statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
+#app-mount .status,#app-mount .status-oxiHuE,
+#app-mount .avatar-small,#app-mount .image-33JSyf,
+#app-mount .wrapper-2F3Zv8,#app-mount .status-2s6iDp,
+#app-mount .statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none;}
 #app-mount .title-3qD0b- .status-oxiHuE,
 #app-mount .friends-column-status .status,
 #app-mount .titleCall-_b9o8P .status-oxiHuE {position:relative}
