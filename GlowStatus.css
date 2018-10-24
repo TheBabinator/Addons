@@ -49,3 +49,17 @@
 #app-mount .status,#app-mount .status-oxiHuE{border:none}
 #app-mount .status-oxiHuE.animate-iYrs3- {transition:none }
 @keyframes typing { 50% {opacity: .4}}
+.titleText-3X-zRE {overflow: visible}
+
+#app-mount .menu-Sp6bN1.alt-3btY0e .online-2S838R,
+#app-mount .headerBar-UHpsPw .online-2S838R {background-color: var(--online)}
+#app-mount .menu-Sp6bN1.alt-3btY0e .streaming-2_dnHe,
+#app-mount .headerBar-UHpsPw .streaming-2_dnHe {background-color: var(--stream)}
+#app-mount .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq,
+#app-mount .headerBar-UHpsPw .dnd-1_xrcq {background-color: var(--dnd)}
+#app-mount .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT,
+#app-mount .headerBar-UHpsPw .idle-3DEnRT {background-color: var(--idle)}
+#app-mount .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0,
+#app-mount .headerBar-UHpsPw .invisible-1kp8Z0 {background-color: var(--invis)}
+#app-mount .menu-Sp6bN1.alt-3btY0e .offline-3qoTek,#app-mount .headerBar-UHpsPw .offline-3qoTek,
+#app-mount .menu-Sp6bN1.alt-3btY0e .unknown-Ms2zdV {background-color: var(--offline)}
