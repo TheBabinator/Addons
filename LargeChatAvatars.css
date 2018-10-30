@@ -3,6 +3,7 @@ background-size: var(--size1) var(--size1);
 height: var(--size1);width: var(--size1);
 border-radius:var(--round1);
 filter: drop-shadow(var(--shadow1))}
+.mask-3OgeRz{-webkit-mask:none}
 .headerCozy-2N9HOL {height: 15px}
 .theme-dark .headerCozyMeta-rdohGq {left:-10px;position:relative}
 .messagesWrapper-3lZDfY .containerCozyBounded-1rKFAn {padding: var(--compact)}
