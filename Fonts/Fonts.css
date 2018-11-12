@@ -1,0 +1,2 @@
+::-webkit-input-placeholder, body, button, input, select, textarea:not([class*="hljs"]):not(code){font-family: var(--font) !important}
+#app-mount .markup-2BOw-j:not(code) {color:var(--textcolor);font-size: var(--fontsize) !important}
