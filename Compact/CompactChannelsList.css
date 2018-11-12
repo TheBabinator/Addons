@@ -1,0 +1,43 @@
+.header-2o-2hj,.channels-Ie2l6A {width: 170px;transition:all .4s ease}
+.container-2Rl01u,.header-2o-2hj,.channels-Ie2l6A:hover,
+.guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {width:240px}
+
+.container-1UB9sr,.privateChannels-1nO12o header {font-size: .875rem}
+.content-20Aix8 {padding:0;transition:all .4s ease}
+.channels-Ie2l6A:hover .content-20Aix8,
+.guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .content-20Aix8 {padding:0 8px}
+
+.voiceUser-vT8g1p {left:-20px;transition:all .4s ease}
+.channels-Ie2l6A:hover .voiceUser-vT8g1p,
+.guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .voiceUser-vT8g1p {left:0}
+
+.inner-btChU7 .rtc-connection-status .ping {background-size: 10px 10px}
+.inner-btChU7 .rtc-connection-status {font-size:.7em;transition:all .3s ease}
+.channels-Ie2l6A:hover .inner-btChU7 .rtc-connection-status,
+.guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .inner-btChU7 .rtc-connection-status {font-size:.9em;transition:all .3s ease}
+
+.inner-btChU7 .channel-SEolQq {opacity: .8}
+.container-1UB9sr .button-2KyEfG {width: 26px}
+.container-2Thooq .avatar-small {background-size: 35px 35px;position:relative;height: 35px;width: 35px;right: 4px}
+.channels-Ie2l6A:hover .accountDetails-3k9g4n,
+.guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .accountDetails-3k9g4n {visibility:visible;transition: all .5 ease}
+.accountDetails-3k9g4n {visibility:hidden;position:relative;right:10px}
+.container-2Thooq .button-2b6hmh {width: 22px}
+
+.name-2WpE7M {flex-grow:0}
+.privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) .name-2WpE7M {display: none}
+.privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) svg {margin: 0;width: 100%}
+.privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) svg path:first-of-type {fill: var(--icon)}
+.privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) .downloadProgressCircle-3_wgim {bottom: 2px;position: absolute}
+.privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) .wrapper-232cHJ {bottom: 0;right:0;padding:3px;position: absolute}
+.privateChannels-1nO12o .scroller-2FKFPG:not([style="height: 42px; opacity: 1;"]) {text-align: center}
+.privateChannels-1nO12o .channel-2QD9_O:not([style="height: 42px; opacity: 1;"]) {display: inline-block;margin: 0 4px 0 4px;width: calc((100%/3) - 6px)}
+.privateChannels-1nO12o .channel-2QD9_O .name-2WpE7M {opacity:0}
+.channels-Ie2l6A:hover .channel-2QD9_O .name-2WpE7M,
+.guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .channel-2QD9_O .name-2WpE7M {opacity:.6;transition: opacity 2s ease}
+.channel-2QD9_O .avatar-small {height:35px;width:35px;background-size:35px}
+.channel-2QD9_O .wrapper-2F3Zv8{left:50px;transition:all .5s ease}
+.channels-Ie2l6A:hover .channel-2QD9_O .wrapper-2F3Zv8,
+.guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .channel-2QD9_O .wrapper-2F3Zv8 {left:0;transition:all .5s ease}
+.channel-2QD9_O:hover a {background-color:transparent}
+.channel-2QD9_O.selected-1HYmZZ:not(.name-2WpE7M) a {background-color: transparent;filter: drop-shadow(0px 0px 4px var(--hGlow))}
