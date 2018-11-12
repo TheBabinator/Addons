@@ -1,0 +1,10 @@
+#app-mount #bd-settings-sidebar .ui-tab-bar-item,
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .item-PXvHYJ {line-height:10px}
+
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .side-8zPYf6 {opacity:0;transition:opacity 1s ease}
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN:hover .side-8zPYf6 {opacity:1;transition:opacity 2s ease}
+
+.standardSidebarView-3F1I7i .contentColumnDefault-1VQkGM {max-width: 100%;padding: 40px 30px 80px}
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e {padding: 25px 10px 10px 25px;width: 190px}
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {flex: 0;width:0;border-right:8px solid #b400ff;border-radius:2px;transition:all .8s cubic-bezier(0.4, 0, 1, 1)    }
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN:hover {flex: 0;width:190px;border-right-width:0;transition:  .6s cubic-bezier(0.4, 0, 1, 1)}

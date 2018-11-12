@@ -1,0 +1,18 @@
+.title-3qD0b-{height:8px;transition:all .4s ease}
+.title-3qD0b-:hover {height:48px;transition: all .4s ease-in-out}
+
+.title-3qD0b- .divider-2PMBlV,
+.title-3qD0b- .iconMargin-2YXk4F, 
+.title-3qD0b- .channelName-3stJzi, 
+.title-3qD0b- .titleText-3X-zRE, 
+.title-3qD0b- .search,
+.title-3qD0b- .topic-2QX7LI,
+.title-3qD0b- .iconBadge-2dji3k {opacity: 0;transition: all .8s ease}
+
+.title-3qD0b-:hover .divider-2PMBlV,
+.title-3qD0b-:hover .iconMargin-2YXk4F, 
+.title-3qD0b-:hover .channelName-3stJzi,
+.title-3qD0b-:hover .titleText-3X-zRE, 
+.title-3qD0b-:hover .search,
+.title-3qD0b-:hover .topic-2QX7LI,
+.title-3qD0b-:hover .iconBadge-2dji3k {opacity: 1;transition: all 1.5s ease}
