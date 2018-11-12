@@ -1,5 +1,5 @@
 .title-3qD0b-{height:8px;transition:all .4s ease}
-.title-3qD0b-:hover {height:48px;transition: all .4s ease-in-out}
+.titleBar-AC4pGV:hover + div .title-3qD0b-,.title-3qD0b-:hover {height:48px;transition: all .4s ease-in-out}
 
 .title-3qD0b- .divider-2PMBlV,
 .title-3qD0b- .iconMargin-2YXk4F, 
@@ -15,4 +15,11 @@
 .title-3qD0b-:hover .titleText-3X-zRE, 
 .title-3qD0b-:hover .search,
 .title-3qD0b-:hover .topic-2QX7LI,
-.title-3qD0b-:hover .iconBadge-2dji3k {opacity: 1;transition: all 1.5s ease}
+.title-3qD0b-:hover .iconBadge-2dji3k,
+.titleBar-AC4pGV:hover + div .divider-2PMBlV,
+.titleBar-AC4pGV:hover + div .iconMargin-2YXk4F, 
+.titleBar-AC4pGV:hover + div .channelName-3stJzi,
+.titleBar-AC4pGV:hover + div .titleText-3X-zRE, 
+.titleBar-AC4pGV:hover + div .search,
+.titleBar-AC4pGV:hover + div .topic-2QX7LI,
+.titleBar-AC4pGV:hover + div .iconBadge-2dji3k {opacity: 1;transition: all 1.5s ease}
