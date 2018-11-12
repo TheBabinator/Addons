@@ -1,0 +1,6 @@
+#app-mount .guildsWrapper-5TJh6A{width:0;border-right:10px solid var(--guildbar);border-radius:2px;transition: all .5s ease}
+#app-mount .guildsWrapper-5TJh6A:hover{border-right-width:0 ;width:70px;transition: all .5s ease}
+
+#app-mount .container-2Rl01u,#app-mount .channels-Ie2l6A:hover, 
+#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {border-right-width:0;width:240px;transition: all .6s ease}
+#app-mount .channels-Ie2l6A {width:0;border-right:8px solid var(--channelbar);transition: all .8s ease}
