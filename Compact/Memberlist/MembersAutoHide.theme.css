@@ -1,0 +1,7 @@
+//META{"name":"Members List Auto Hide.theme","description":"Hides members list and expands on hover. Please use the support server listed below if you need any help.","author":"Satoru","version":"1"}*//{}
+
+@import url(https://satoru8.github.io/Addons/Compact/Memberlist/MembersAutoHide.css);
+
+:root {
+    --sidebar: #f00 
+}
