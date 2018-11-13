@@ -25,6 +25,7 @@
 .container-2Thooq .button-2b6hmh {width: 22px}
 
 .name-2WpE7M {flex-grow:0}
+/* Edited snippet from CompletelyUnbelievable's Mini-theme */
 .privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) .name-2WpE7M {display: none}
 .privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) svg {margin: 0;width: 100%}
 .privateChannels-1nO12o .channel-2QD9_O a:not([href*="/channels/@me/"]) svg path:first-of-type {fill: var(--icon)}
@@ -33,6 +34,7 @@
 .privateChannels-1nO12o .scroller-2FKFPG:not([style="height: 42px; opacity: 1;"]) {text-align: center}
 .privateChannels-1nO12o .channel-2QD9_O:not([style="height: 42px; opacity: 1;"]) {display: inline-block;margin: 0 4px 0 4px;width: calc((100%/3) - 6px)}
 .privateChannels-1nO12o .channel-2QD9_O .name-2WpE7M {opacity:0}
+/*End*/
 .channels-Ie2l6A:hover .channel-2QD9_O .name-2WpE7M,
 .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .channel-2QD9_O .name-2WpE7M {opacity:.6;transition: opacity 2s ease}
 .channel-2QD9_O .avatar-small {height:35px;width:35px;background-size:35px}
