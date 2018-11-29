@@ -1,4 +1,4 @@
-//META{"name":"Glow Badges","description":"Glowing badges with option to change colour for each. Works with Badges Everywhere plugin. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+//META{"name":"Glow Badges","description":"Glowing badges with option to change colour for each. Works with Badges Everywhere plugin. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.1","website":"http://discord.gg/fjvwb95"}*//{}
 
 /* 
 The options should be self explanatory.  
@@ -15,10 +15,15 @@ Remove the hex code if you dont want a specifc badge to glow.
 	
     --glow: 2px; /* Default - 2px */
 
-    --nitro: #cc8400 ; /* Default - #cc8400 */
+	--hype: #cc8400 ; /* Default - #cc8400 */
+    --nitro: #cc8400 ;
+
     --early: #cc8400 ;
     --brave: #cc8400 ;
     --bril: #cc8400 ;
     --bal: #cc8400 ;
-	
+    
+	--staff: #cc8400 ;
+	--bughntr: #cc8400 ;
+	--partner: #cc8400 ;
 }
