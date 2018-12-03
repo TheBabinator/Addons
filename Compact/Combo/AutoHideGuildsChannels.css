@@ -1,14 +1,19 @@
 #app-mount .guildsWrapper-5TJh6A{width:0;border-right:10px solid var(--guildbar);border-radius:2px;transition: all .5s ease}
 #app-mount .guildsWrapper-5TJh6A:hover{border-right-width:0 ;width:70px;transition: all .5s ease}
 
+#app-mount .channels-Ie2l6A {width:0;border-right:8px solid var(--channelbar);transition: all .8s ease}
 #app-mount .container-2Rl01u,#app-mount .channels-Ie2l6A:hover, 
 #app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {border-right-width:0;width:240px;transition: all .6s ease}
 
-#app-mount .channels-Ie2l6A {width:0;border-right:8px solid var(--channelbar);transition: all .8s ease}
-#app-mount .header-2o-2hj {left:-240px;transition: all .6s ease}
+#app-mount .header-2o-2hj {left:-240px;transition: all .8s ease}
 #app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .header-2o-2hj,
-#app-mount  .channels-Ie2l6A:hover .header-2o-2hj {left:0;transition: all .6s cubic-bezier(0.53, 0.89, 0.57, 1)}
-#app-mount .container-2Thooq {background: transparent}
-#app-mount .container-2Rl01u,#app-mount .channels-Ie2l6A:hover, 
-#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {background: initial}
+#app-mount .channels-Ie2l6A:hover .header-2o-2hj {left:0;transition: all .55s cubic-bezier(0.53, 0.89, 0.57, 1)}
+
+#app-mount .container-1UB9sr, #app-mount .container-2Thooq {margin-left:10px;transition: all 1.2s ease}
+
+#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .container-1UB9sr,
+#app-mount .channels-Ie2l6A:hover .container-1UB9sr,
+#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A .container-2Thooq,
+#app-mount .channels-Ie2l6A:hover .container-2Thooq {margin-left:0;transition: all .8s ease}
+
 #app-mount .base-3dtUhz {border-radius:0}
