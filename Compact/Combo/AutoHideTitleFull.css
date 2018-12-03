@@ -1,0 +1,60 @@
+.title-3qD0b-,.titleCall-_b9o8P{height:8px;transition:all .4s ease}
+
+.titleBar-AC4pGV:hover + div .title-3qD0b-,.title-3qD0b-:hover,
+.titleBar-AC4pGV:hover + div .titleCall-_b9o8P,.titleCall-_b9o8P:hover{height:48px;transition: all .4s ease-in-out}
+
+.title-3qD0b- .divider-2PMBlV,
+.title-3qD0b- .iconMargin-2YXk4F, 
+.title-3qD0b- .channelName-3stJzi, 
+.title-3qD0b- .titleText-3X-zRE, 
+.title-3qD0b- .search,
+.title-3qD0b- .topic-2QX7LI,
+.title-3qD0b- .iconBadge-2dji3k,
+.titleCall-_b9o8P .titleText-3X-zRE,
+.titleCall-_b9o8P .iconMargin-2YXk4F,
+.titleCall-_b9o8P .divider-2PMBlV,
+.titleCall-_b9o8P .search,
+#app-mount .winButton-iRh8-Z {opacity: 0;transition: all .8s ease}
+
+.title-3qD0b-:hover .divider-2PMBlV,
+.title-3qD0b-:hover .iconMargin-2YXk4F, 
+.title-3qD0b-:hover .channelName-3stJzi,
+.title-3qD0b-:hover .titleText-3X-zRE, 
+.title-3qD0b-:hover .search,
+.title-3qD0b-:hover .topic-2QX7LI,
+.title-3qD0b-:hover .iconBadge-2dji3k,
+.titleCall-_b9o8P:hover .titleText-3X-zRE,
+.titleCall-_b9o8P:hover .iconMargin-2YXk4F,
+.titleCall-_b9o8P:hover .divider-2PMBlV,
+.titleCall-_b9o8P:hover .search,
+.titleBar-AC4pGV:hover + div .divider-2PMBlV,
+.titleBar-AC4pGV:hover + div .iconMargin-2YXk4F, 
+.titleBar-AC4pGV:hover + div .channelName-3stJzi,
+.titleBar-AC4pGV:hover + div .titleText-3X-zRE, 
+.titleBar-AC4pGV:hover + div .search,
+.titleBar-AC4pGV:hover + div .topic-2QX7LI,
+.titleBar-AC4pGV:hover + div .iconBadge-2dji3k {opacity: 1;transition: all 1.5s ease}
+
+#app-mount .titleBar-AC4pGV:hover .winButton-iRh8-Z {opacity: 1;transition: all 3.5s ease}
+
+
+#app-mount .titleWrapper-3Vi_wz > div{margin-right: 98px !important}
+.activityFeed--1mYMS .iconMargin-2Js7V9,.theme-dark .activityFeed-HeiGwL .iconMargin-2Js7V9 ,
+.divider-1GKkV3,#friends .iconMargin-2Js7V9,.divider-1GKkV3 {margin: 0px 90px 0px -85px !important}
+.typeWindows-1za-n7 {height: 0;margin-top: 0}
+.standardSidebarView-3F1I7i {top: 0}
+.winButtonClose-1HsbF-:active,.winButtonMinMax-PBQ2gm:active {animation: buttonM 100ms !important}
+.wordmark-2iDDfm,.winButtonMinMax-PBQ2gm svg, .winButtonClose-1HsbF- svg {display: none}
+.titleBar-AC4pGV:after {background:rgba(255, 0, 0, 0);content:"";position:relative;height:14px;width:100vw;top:-15px;left:85px;-webkit-app-region:drag}
+.titleBar-AC4pGV{position:absolute;top:0px;right:0;padding:15px 0 0 0;z-index:401}
+.winButton-iRh8-Z {left:-6px}
+.winButtonMinMax-PBQ2gm,.macButtonMaximize-2FMHAO {opacity:1;background: url("https://cdn.rawgit.com/satoru8/Icons/18071bd1/fullscreen.svg") center}
+.winButtonMinMax-PBQ2gm:last-child,.macButtonMinimize-3EJ6wo {background: url("https://cdn.rawgit.com/satoru8/Icons/18071bd1/remove.svg") center}
+.winButtonClose-1HsbF-,.macButtonClose-MwZ2nf {opacity:1;background: url("https://cdn.rawgit.com/satoru8/Icons/18071bd1/close.svg") center; background-color: rgba(0, 0, 0, 0)}
+.winButtonClose-1HsbF-:hover {background-color: rgba(245, 245, 245, 0.1)}
+.titleCall-_b9o8P,.headerBar-UHpsPw{padding-right:90px}
+.theme-dark .iconBadge-2dji3k {left:12px}
+.theme-dark .topic-2QX7LI {color:#fff}
+.title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci,
+.titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci,
+.headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci{margin-right:0}
