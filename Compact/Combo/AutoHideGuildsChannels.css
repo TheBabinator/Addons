@@ -4,3 +4,10 @@
 #app-mount .container-2Rl01u,#app-mount .channels-Ie2l6A:hover, 
 #app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {border-right-width:0;width:240px;transition: all .6s ease}
 #app-mount .channels-Ie2l6A {width:0;border-right:8px solid var(--channelbar);transition: all .8s ease}
+#app-mount .header-2o-2hj,#app-mount .container-2Rl01u{box-shadow:none}
+#app-mount .container-2Rl01u,#app-mount .channels-Ie2l6A:hover, 
+#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A.header-2o-2hj{box-shadow:0 0 1px #000 !important}
+#app-mount .container-2Thooq {background: transparent}
+#app-mount .container-2Rl01u,#app-mount .channels-Ie2l6A:hover, 
+#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {background: initial}
+#app-mount .base-3dtUhz {border-radius:0}
