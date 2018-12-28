@@ -1,7 +1,7 @@
 # Addons
 Various addons, minithemes, theme fixes & such
 
-Notice of Copyright
+Notice of Copyright & License
 
 The author (Satoru#4997) retains full rights of this code.
 You are not allowed to redistribute this theme or any part of it at all.
