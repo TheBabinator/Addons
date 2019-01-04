@@ -11,4 +11,4 @@ You may add additional code to the *.theme.css for personal use only.
 The contents of any *.css or *.plugin.js file are off limits.
 
 This notice applies to all files within this repository even where not stated within the files.
-Copyright © 2018, Satoru | All rights reserved | DO NOT DISTRIBUTE
+Copyright © 2018-19, Satoru | All rights reserved | DO NOT DISTRIBUTE
