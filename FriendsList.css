@@ -1,14 +1,14 @@
 @media (max-width:1300px){#friends .friends-table .friends-column-guilds{display:inline-flex !important}}
 #app-mount #friends .friends-table .friends-row  {
-    background: hsla(0, 0%, 0%, 0.5) ;box-shadow: 0px 0px 5px 1px var(--mc);
-    border-radius: 6px ;margin: 10px;padding: 0 ;height: 130px !important;
-    flex-direction: column ;flex-basis: 300px ;transition: opacity 300ms;
+    background: hsla(0, 0%, 0%, 0.5);box-shadow: 0px 0px 5px 1px var(--mc);
+    border-radius: 6px;margin: 10px;padding: 0;height: 130px !important;
+    flex-direction: column;flex-basis: 300px;transition: opacity 300ms;
     white-space: nowrap;width: 320px;line-height: 0;font-weight: 700;
     display: inline-block;justify-content: center;align-items: center;position:relative}
 #app-mount #friends .friends-table .friends-row:hover {background-color:hsla(0, 0%, 0%, 0.75) ;box-shadow: 0px 0px 20px 0px  var(--mc)}
 #app-mount #friends .friends-table .friends-row:active {box-shadow: 0px 0px 20px 0px  var(--mc);animation: button 80ms }
 #friends .friends-header .tab-bar .tab-bar-item .badge-1GsMF2 {background: hsla(0, 0%, 0%, 0.4) ;color:  var(--mc) ;opacity: 0.7;transition: opacity 500ms}
-#friends .friends-table{margin-top: 0px}
+#friends .friends-table{margin-top: 0px;}
 #friends .friends-header .tab-bar .tab-bar-item,
 #app-mount #friends .friends-table .friends-table-header .friends-column,
 #app-mount #friends .friends-table .friends-row .friends-column-name {color:  var(--sc) }
@@ -30,15 +30,9 @@
 #app-mount #friends .friends-table .friends-row .friends-column-name .discord-tag .discriminator {visibility: visible}
 #app-mount #friends .friends-table .friends-row .friends-column-status .status,
 #app-mount #friends .friends-table .friends-row .friends-column-status {
-  width: 100%;
-  left:2px;
-  justify-content: center;
-  height:17px;
-  border-radius: 5px 5px 0 0;
-  top: 0;
-  opacity: 0.7;
-  z-index: 0;
-  }
+  width: 100%; left:2px;  justify-content: center;
+  height:17px;  border-radius: 5px 5px 0 0;
+  top: 0;  opacity: 0.7;  z-index: 0}
 #friends .friends-table .friends-row .friends-column-status .status-text {
   color: hsla(0, 0%, 0%, 0.6);font-weight: 700;
   max-width: 90%;font-size: 14px;line-height: normal;
@@ -55,18 +49,18 @@
   content: "";background-color: hsla(0, 0%, 0%, 0.4);background-size: 18px 18px;
   background-position: center center;background-repeat: no-repeat;
   border-radius: 5px;width: 30px;height: 30px;
-  box-shadow: 1px 1px 2px hsla(0, 0%, 0%, 0.5);position: absolute;top: 0;}
+  box-shadow: 1px 1px 2px hsla(0, 0%, 0%, 0.5);position: absolute;top: 0}
 #app-mount #friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn,
 #app-mount #friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:hover {border: 0;color: transparent}
 #friends .friends-table .friends-row .friends-column-actions {
-  top: 45px;  right: 10px;  opacity: 0;transition: opacity 400ms;visibility: visible;}
+  top: 45px;  right: 10px;  opacity: 0;transition: opacity 400ms;visibility: visible}
 #friends .friends-table .friends-row:hover .friends-column-actions {opacity: 0.8}
 #friends .friends-table .friends-row .friends-column-actions .friends-action {
   width: 24px;height: 24px;transform: translateX(120px);transition: transform 400ms, background 400ms}
 #friends .friends-table .friends-row:hover .friends-column-actions .friends-action {transform: translateX(0px)}
 #friends .friends-table .friends-row .friends-column-actions .friends-action:first-child,
 #friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2) {border-radius:6px;background-color: hsla(0, 0%, 0%, 0.5);box-shadow: 0px 0px 10px 0px  var(--mc) }
-#friends .friends-table .friends-row .friends-suggestion-inner {padding: 20px;}
+#friends .friends-table .friends-row .friends-suggestion-inner {padding: 20px}
 #friends .friends-table .friends-row .friends-suggestion-inner .avatar-large {border-radius: 5px;opacity: 0.6;transition: opacity 500ms}
 #friends .friends-table .friends-row:hover .friends-suggestion-inner .avatar-large {opacity: 0.7}
 #friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .username {
@@ -79,7 +73,7 @@
 #friends .friends-table .friends-row .friends-column-status .status.status-unknown {border: none}
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {background-color: hsla(0, 83%, 45%, 0.5)}
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove:hover {background-color: hsl(0, 83%, 45%) !important}
-#app-mount #friends .friends-table .friends-table-body {padding: 0;display: flex ;flex-flow: row wrap }
+#app-mount #friends .friends-table .friends-table-body {padding: 0;flex-flow: row wrap}
 .friends-table-body[class*="scroller"] .friends-row {min-width: 20%}
 #friends .friends-table .friends-row .friends-column-actions .friends-action:first-child  {transition:600ms}
 #friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2) {transition:800ms}
@@ -87,7 +81,8 @@
 #app-mount #friends .friends-table .online-2S838R {background-color: #43b581 ;box-shadow:none !important}
 #app-mount #friends .friends-table .streaming-2_dnHe {background-color: #593695;box-shadow:none !important}
 #app-mount #friends .friends-table .dnd-1_xrcq {background-color: #f04747;box-shadow:none !important}
-#app-mount #friends .friends-table .idle-3DEnRT {background-color: #faa61a;box-shadow:none !important;}
+#app-mount #friends .friends-table .idle-3DEnRT {background-color: #faa61a;box-shadow:none !important}
 #app-mount #friends .friends-table .invisible-1kp8Z0{background-color: #1a36fa;box-shadow:none !important}
 #app-mount #friends .friends-table .offline-3qoTek,
 #app-mount #friends .friends-table .unknown-Ms2zdV {background-color: #747f8d;box-shadow:none !important}
+#friends .friends-table .scrollerWrap-2lJEkd,#app-mount #friends .friends-table .friends-table-body {height:100vh}

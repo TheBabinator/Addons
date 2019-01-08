@@ -1,3 +1,8 @@
+:root {
+	--cbBG: rgba(0, 0, 0, 0.5);        /* Main background colour */
+	--mainColour:rgba(0, 0, 0, 0.5);	/* Main line colour */
+	--slColour: rgb(0, 0, 0);	/* Secondary line colour */
+}
 #app-mount .markup-2BOw-j code {
 	background-color: var(--cbBG);
 	background-image: linear-gradient(var(--mainColour) 50%,var(--slColour) 50%);
