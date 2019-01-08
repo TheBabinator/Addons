@@ -1,0 +1,17 @@
+//META{"name":"Blocked Messages Button","description":"Turns blocked messages into small buttons on the right side of chat. Expands on click. Customizable with user settings.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url('https://satoru8.github.io/Addons/BlockedMsgs/BlockedMsgBtn.css');
+
+:root {
+    
+    --btnBg: #303235;		 /* Button background colour */
+    --btnColour:#8a8e94;   /* Button text colour */
+    --btnBorder:#002;	 /* Button border colour */
+    
+    --msgBg:#32353b;   /* Blocked msg background colour */
+    --msgColour:#fff;       /* Blocked msg text colour */
+    --msgBorder:#1f1f21;	 /* Msg border colour */
+
+    --hideAll: block ; /* "block", to show blocked messages. "none", to hide them. Without quotes. */
+
+}
