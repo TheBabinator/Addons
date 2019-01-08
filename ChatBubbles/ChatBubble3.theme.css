@@ -1,0 +1,10 @@
+//META{"name":"Chat Bubble - Style 3","description":"Very simple chat bubble similar to style 2.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url('https://satoru8.github.io/Addons/ChatBubbles/chatbubble3.css');
+
+:root {
+	
+	--cbBg3:rgba(0, 0, 0, .4) ;	/* Bubble background / transparency */
+	--cb3Border:0px 0px #000;	/* Set bubble glow or border here. None by default. Glow 4px 0px / Border 0px 1px */
+	--cb3Round:15px;				/* Bubble roundness */
+}
