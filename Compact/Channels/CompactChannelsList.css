@@ -1,5 +1,6 @@
 .header-2o-2hj,.channels-Ie2l6A {width: 170px;transition:all .4s ease}
-.container-2Rl01u,.header-2o-2hj,.channels-Ie2l6A:hover,
+.container-2Rl01u,.channels-Ie2l6A:hover .header-2o-2hj,
+.guildsWrapper-5TJh6A:hover + div .header-2o-2hj,.channels-Ie2l6A:hover,
 .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {width:240px}
 
 .container-1UB9sr,.privateChannels-1nO12o header {font-size: .875rem}
