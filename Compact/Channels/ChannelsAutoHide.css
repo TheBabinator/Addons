@@ -1,3 +1,11 @@
-#app-mount .container-2Rl01u {text-align: center;left: inherit}
-#app-mount .channels-Ie2l6A:hover, #app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {left: 70px;opacity: 1;transition: all .5s ease-out;z-index:1000}
-#app-mount .channels-Ie2l6A {height:98%;left:-240px;transition: all .5s cubic-bezier(0.4, 0, 1, 1);position:absolute;opacity:0;z-index:10}
+#app-mount .container-2Rl01u {left: inherit}
+#app-mount .channels-Ie2l6A:hover, #app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {
+    left: 0;opacity: .99;
+    transition: all .4s ease-out;
+    z-index: 1000
+}
+#app-mount .channels-Ie2l6A {
+    height: 100%;left: -235px;
+    transition: all .4s cubic-bezier(0.4, 0, 1, 1);
+    position: absolute;opacity: 0;z-index: 10
+}
