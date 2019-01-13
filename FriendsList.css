@@ -323,7 +323,5 @@
 }
 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif {
-    height: 100vh;
-    height: calc(100% + 10px);
-    padding-bottom: 10px
+    height: calc(100vh - 80px);
 }
