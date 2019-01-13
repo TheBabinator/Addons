@@ -2,13 +2,14 @@
 
 @import url('https://satoru8.github.io/Addons/Emoji/emojipicker.css');
 
-:root {
-/* 
-	You can change the size here. 
-	I suggest you leave these default.
-*/
-    --epHeight: 400px ;
-    --epWidth: 450px ;
+/* User Settings */
 
-    --epItemW: 8.5% ; /* Only change this if you know what you are doing. */
+:root {
+
+    --epHeight: 400px ;		/* EmojiPicker Height. Default: 400px, Original:325px */
+    --epWidth: 450px ;		/* EmojiPicker Width. Default: 450px, Original:345px */
+
+   	--emojiSize: 2em ;			/* Chat emoji size */
+
+    --epItemW: 8.5% ; /* PickerItemWidth. Only change this if you know what you are doing. */
 }

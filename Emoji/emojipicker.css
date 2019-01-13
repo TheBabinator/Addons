@@ -6,3 +6,4 @@
 #app-mount .emojiPicker-3m1S-j .scrollerWrap-PyxcLY,#app-mount .emojiPicker-3m1S-j .dimmer-3iH-5D {height:100%;width:100%}
 #app-mount .emojiPicker-3m1S-j .scroller-3vODG7 .row-3j9Kuo{width:var(--epWidth)}
 #app-mount .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA {width:var(--epItemW)}
+#app-mount .chat-3bRxxu .emoji.jumboable,#app-mount .chat-3bRxxu .emote.jumboable {height:var(--emojiSize);width:var(--emojiSize)}
