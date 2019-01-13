@@ -1,8 +1,10 @@
-//META{"name":"Friends List","description":"Box style friends list with animations. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+//META{"name":"Friends List Restyle","description":"Card/Box style friends list with animations. Please use the support server listed below if you need any help.","author":"Satoru","version":"2.0","website":"http://discord.gg/fjvwb95"}*//{}
 
 @import url(https://satoru8.github.io/Addons/FriendsList.css);
 
 :root {
-    --mc: hsla(268, 100%, 50%, 0.9);                   /*Main Color*/
-    --sc: hsl(297, 100%, 40%);                      /*Accent Color*/  	
+
+    --mc: rgba(0, 185, 255, 0.8); /*Main Color*/
+    --sc: rgba(0, 185, 255, 0.8); /*Accent Color*/
+
 }
