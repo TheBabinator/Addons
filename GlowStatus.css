@@ -11,17 +11,17 @@
 #app-mount .statusProfile-3ynqtt.status-oxiHuE,
 #app-mount .listRow-hutiT_ .status-oxiHuE, 
 #app-mount .card-7JP0BX .status-oxiHuE,
-#app-mount .privateChannels-1nO12o .status,
+#app-mount .privateChannels-1nO12o .status-2zcSVk,
 #app-mount .autocompleteRow-2OthDa .status-oxiHuE,
 #app-mount .container-1YxwTf .status-oxiHuE,
 #app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp,
 #app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp,
-#app-mount .container-2Thooq .status-2kJpnA,.friend-2PO6ke .status,
+#app-mount .container-2Thooq .status-2kJpnA,.friend-2PO6ke .status-2CRxKL,
 .status-oxiHuE.xxlarge-1R_NA5 {
     width:100%;height: 100%;right: 0;bottom:0
 }
 .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatar-large, 
-.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatar-small{width:40px;height:40px;background-size:40px}
+.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI{width:40px;height:40px;background-size:40px}
 .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-3fQvEa {right:241px;bottom: 0;height: 40px;width: 40px}
 .container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm {padding-left:4px}
 @media (max-width:1300px){.container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm{width:200px !important}}
@@ -35,13 +35,15 @@
 #app-mount .offline-3qoTek,
 #app-mount .unknown-Ms2zdV {background-color: transparent;box-shadow:0 0 var(--sglow) var(--offline) !important}
 
-#app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
-#app-mount .status,#app-mount .status-oxiHuE,
-#app-mount .avatar-small,#app-mount .image-33JSyf,
+
+#app-mount .status,#app-mount .status-oxiHuE,#app-mount .image-33JSyf,
+#app-mount .avatarSmall-3ACRaI,#app-mount .inner-1W0Bkn,
 #app-mount .wrapper-2F3Zv8,#app-mount .status-2s6iDp,
-#app-mount .statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none;}
+#app-mount .statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
+#app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
+
 #app-mount .title-3qD0b- .status-oxiHuE,
-#app-mount .friendsColumnStatus-ZH4ho2 .status,
+#app-mount .friendsColumnStatus-ZH4ho2 .status-mz5rqq,
 #app-mount .titleCall-_b9o8P .status-oxiHuE {position:relative}
 
 #app-mount .container-2Thooq .status-2kJpnA,#app-mount .statusProfile-3ynqtt.status-oxiHuE {pointer-events: none}
@@ -49,7 +51,7 @@
 #app-mount .privateChannels-1nO12o .pulsingEllipsis-3YiXRF {left:2px}
 .members-1998pB .pulsingEllipsis-3YiXRF {left:5px}
 #app-mount .status,#app-mount .status-oxiHuE{border:none}
-#app-mount .status-oxiHuE.animate-iYrs3- {transition:none }
+#app-mount .status-oxiHuE.animate-iYrs3- {transition:none}
 @keyframes typing { 50% {opacity: .4}}
 .titleText-3X-zRE {overflow: visible}
 

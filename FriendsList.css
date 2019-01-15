@@ -63,10 +63,6 @@
     display: none
 }
 
-#app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatar-small {
-    box-shadow: none
-}
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud {
     border-top: none
 }
@@ -80,18 +76,19 @@
     margin: 0
 }
 
-#app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm .avatar-small {
-    top: 15px;
+#app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm .avatarSmall--gkJKA {
+    top: 25px;
     left: 5px;
     width: 85px;
     height: 85px;
     background-size: 85px 85px;
+    box-shadow: none;
     opacity: 0.8;
     transition: opacity 500ms, transform .2s linear, box-shadow .2s linear;
-    transform: scale(0.97) perspective(1px)
+    transform: scale(0.97) perspective(1px);
 }
 
-#app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud:hover .friendsColumnName-1zBOKm .avatar-small {
+#app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud:hover .friendsColumnName-1zBOKm .avatarSmall--gkJKA {
     opacity: 1;
     transform: scale(1) perspective(1px);
     box-shadow: none
@@ -142,27 +139,23 @@
 }
 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud .friendsColumnGuilds-2we6jb {
-    top: 80px;
+    top: 90px;
     left: 115px;
     width: 150px;
     display: flex
 }
 
-.container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud .friendsColumnGuilds-2we6jb .avatar-small {
+.container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud .friendsColumnGuilds-2we6jb .iconSizeSmall-3aWgx9 {
     opacity: 0.8;
     transition: opacity 500ms
 }
 
-.container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud:hover .friendsColumnGuilds-2we6jb .avatar-small {
+.container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud:hover .friendsColumnGuilds-2we6jb .iconSizeSmall-3aWgx9 {
     opacity: 1
 }
 
-.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb .avatar-small {
+.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb .iconSizeSmall-3aWgx9 {
     background-color: rgba(0, 0, 0, 0.4)
-}
-
-.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb a:nth-child(4),.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb a:nth-child(4) .avatar-small, .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb a:nth-child(5),.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb a:nth-child(5) .avatar-small, .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb a:nth-child(n + 6) {
-    display: none
 }
 
 .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb .more-mutual-guilds-btn:before {
