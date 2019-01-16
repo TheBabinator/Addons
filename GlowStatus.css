@@ -2,10 +2,9 @@
 #app-mount .members-1998pB .small-5Os1Bb {background-size: 37px;height: 37px;width: 37px}
 
 #app-mount .member-3W1lQa:hover .content-OzHfo4 .status-2s6iDp,
-#app-mount .member-3W1lQa .content-OzHfo4 .status-2s6iDp,
-#app-mount .privateChannels-1nO12o .channel-2QD9_O .status,
-#app-mount .privateChannels-1nO12o .channel-2QD9_O:hover .status {border-color: transparent}
-#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {left:0;right:0;height: 100% !important;width: 100%!important;background-color: rgba(0, 0, 0, 0.4);animation: typing 1.5s linear infinite}
+#app-mount .member-3W1lQa .content-OzHfo4 .status-2s6iDp{border-color: transparent}
+
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2zcSVk {left:0;right:0;height: 100% !important;width: 100%!important;background-color: rgba(0, 0, 0, 0.4);animation: typing 1.5s linear infinite}
 #app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {left:0;right:0;height: 100% !important;width: 100%!important;background-color: rgba(0, 0, 0, 0.4);animation: typing 1.5s linear infinite}
 
 #app-mount .statusProfile-3ynqtt.status-oxiHuE,
@@ -20,7 +19,7 @@
 .status-oxiHuE.xxlarge-1R_NA5 {
     width:100%;height: 100%;right: 0;bottom:0
 }
-.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatar-large, 
+.container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .large-3ChYtB, 
 .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI{width:40px;height:40px;background-size:40px}
 .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-3fQvEa {right:241px;bottom: 0;height: 40px;width: 40px}
 .container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm {padding-left:4px}
