@@ -1,0 +1,46 @@
+//META{"name":"Full Screen Server Settings Menu","description":"Uri's customizable full screen server settings menu. Recently outdated and not maintained. Remade and updated by Satoru","author":"Uri, Satoru","version":"1.0","website":"http://discord.gg/fjvwb95","source":""}*//{}
+
+@import url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/fullScreenServerSettingsMenu.css');
+
+:root{
+
+	--ssColourInvite: #7289da;
+
+	--ssColourServerSettings: #046d94;
+
+	--ssColourCreateChannel: #daa520;
+
+	--ssColourCreateCategory: #751e5f;
+
+	--ssColourNotification: #157563;
+
+	--ssColourPrivacy: #497388;
+
+	--ssColourNickname: #714484;
+
+	--ssColourHidden: #cc6699;
+
+	--ssColourLeave: #f04747;
+
+	
+	--ssIconInvite: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/online.svg');
+
+	--ssIconServerSettings: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/setting.svg');
+
+	--ssIconCreateChannel: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/channel.svg');
+
+	--ssIconCreateCategory: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/category.svg');
+
+	--ssIconNotification: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/notif.svg');
+
+	--ssIconPrivacy: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/privacy.svg');
+
+	--ssIconNickname: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/nickname.svg');
+
+	--ssIconHiddenIsHidden: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/hidden.svg');
+
+	--ssIconHiddenIsShown: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/shown.svg');
+
+	--ssIconLeave: url('https://satoru8.github.io/Addons/FullScreenServerSettingsMenu/Assets/leave.svg');
+	
+}

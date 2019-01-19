@@ -1,0 +1,21 @@
+//META{"name":"Full Screen Status Picker","description":"Uri's customizable full screen status picker. Recently outdated and  not maintained.  Remade and updated by Satoru","author":"Uri, Satoru","version":"1.0","website":"http://discord.gg/fjvwb95","source":""}*//{}
+
+@import url('https://satoru8.github.io/Addons/FullScreenStatusPicker/fullScreenStatusPicker.css');
+
+
+:root {
+
+    --sPickerOnlineBGColour: #43b581;
+    --sPickerIdleBGColour: #faa61a;
+    --sPickerDNDBGColour: #f04747;
+    --sPickerInviBGColour: #1a36fa;
+
+    --sPickerOnlineBGIcon: url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/online.svg');
+    
+    --sPickerIdleBGIcon: url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/idle.svg');
+
+    --sPickerDNDBGIcon:url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/dnd.svg');
+
+    --sPickerInviBGIcon: url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/invis.svg');
+
+}
