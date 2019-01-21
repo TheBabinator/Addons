@@ -7,4 +7,11 @@
     --mc: rgba(0, 185, 255, 0.8); /*Main Color*/
     --sc: rgba(0, 185, 255, 0.8); /*Accent Color*/
 
+    --online: #43b592;
+    --offline: #747f8d;
+    --idle: #faa61a;
+    --stream: #593695;
+    --dnd: #f04747;
+    --invis: #1a36fa;
+
 }

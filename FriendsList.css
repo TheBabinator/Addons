@@ -1,3 +1,12 @@
+:root {
+
+    --online: #43b592;
+    --offline: #747f8d;
+    --idle: #faa61a;
+    --stream: #593695;
+    --dnd: #f04747;
+    --invis: #1a36fa;
+}
 @media (max-width: 1300px) {
     .container-3gCOGc .friendsTable-133bsv .friendsColumnGuilds-2we6jb {
         display:inline-flex !important
@@ -219,28 +228,28 @@
 }
 
 #app-mount .container-3gCOGc .friendsTable-133bsv .online-2S838R {
-    background-color: #43b581;
+    background-color: var(--online);
     box-shadow: none !important
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .streaming-2_dnHe {
-    background-color: #593695;
+    background-color: var(--stream);
     box-shadow: none !important
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .dnd-1_xrcq {
-    background-color: #f04747;
+    background-color: var(--dnd);
     box-shadow: none !important
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .idle-3DEnRT {
-    background-color: #faa61a;
+    background-color: var(--idle);
     box-shadow: none !important
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .invisible-1kp8Z0 {
-    background-color: #1a36fa;
+    background-color: var(--invis);
     box-shadow: none !important
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .offline-3qoTek, 
 #app-mount .container-3gCOGc .friendsTable-133bsv .unknown-Ms2zdV {
-    background-color: #747f8d;
+    background-color: var(--offline);
     box-shadow: none !important
 }
 
