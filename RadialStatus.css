@@ -1,3 +1,12 @@
+/* 
+
+Deprecation notice - This was a class update of Zere's Radial Status on hover. 
+Only has members and friends list support.
+Classes are outdated again. This also only works in some areas with correct classes.
+I use my GlowStatus Addon for everything now. I have no reason to maintain this.
+
+*/
+
 .header-QKLPzZ:hover .statusProfile-3ynqtt.status-oxiHuE,.userPopout-3XzG_A:hover .statusProfile-3ynqtt {width:96% !important;height: 96%;right:-2px !important;bottom:-2px;padding:2px;transition: .1s}
 
 .listRow-hutiT_:hover .status-oxiHuE,.card-7JP0BX:hover .status-oxiHuE {width:91% !important;height: 91%;border-radius: var(--round);right: -2px !important;bottom:-2px;padding:2px;transition: .1s}
