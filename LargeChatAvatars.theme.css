@@ -5,9 +5,13 @@
 :root {
 	
 	--size1: 60px; /* Avatar Size */
+
 	--round1: 5%;  /* Avatar roundness 50% Circle. */
+
 	--margin1: 0px; /* Margin left/right */
 	--margin2: 0px; /* Margin top/bottom */
+
 	--shadow1: 0 0 1px #000; /* Shadow for transparent themes. */
+	
 	--compact: 5px;    /* Default 5px, Non-compact 15px. This makes the chat msgs a bit more compact by default. */
 }
