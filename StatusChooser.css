@@ -29,7 +29,7 @@
     animation: statuspicker 300ms ease 0ms forwards;
     transition: all .2s ease
 }
-#app-mount .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .item-1GzJrl:active {transform: scale(.98)}
+#app-mount .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .item-1GzJrl:active {transform: scale(.95)}
 #app-mount .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .status-oxiHuE.large-3ChYtB.status-3fQvEa {
 	border-radius: var(--round);width: 50px;height: 50px;
 	box-sizing: border-box;	pointer-events: initial;
