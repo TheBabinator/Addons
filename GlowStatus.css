@@ -40,6 +40,7 @@
 #app-mount .wrapper-2F3Zv8,#app-mount .status-2s6iDp,
 #app-mount .statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
 #app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
+#app-mount .mask-3OgeRz{border-radius:var(--round)}
 
 #app-mount .title-3qD0b- .status-oxiHuE,
 #app-mount .friendsColumnStatus-ZH4ho2 .status-mz5rqq,
