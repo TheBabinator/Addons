@@ -1,14 +1,14 @@
-.guildsWrapper-5TJh6A{width: 120px}
-.guildsWrapper-5TJh6A .scrollerWrap-1IAIlv{width: 135px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH {padding-bottom:35px;display: flex;flex-flow: row wrap; padding-left: 0;align-content: flex-start}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {margin-left: 5px;margin-top: 5px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {left: -2px;top: 5px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {position: relative;left:30px;top:-5px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {position: relative;width: 100%}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;margin: auto;top:25px}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1:after,
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before {visibility: hidden}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {width: 100%;display: flex;flex-flow: row wrap}
-.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV .guild-1EfMGQ {top:15px;left:0}
-#bd-pub-li {position: relative;left: -25px;top:50px}
-#RANbutton-frame {left:30px;top:15px}
+#app-mount .guildsWrapper-5TJh6A{width: 120px}
+#app-mount .guildsWrapper-5TJh6A .scrollerWrap-1IAIlv{width: 135px}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH {padding-bottom:35px;display: flex;flex-flow: row wrap; padding-left: 0;align-content: flex-start}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {margin-left: 5px;margin-top: 5px}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {left: -2px;top: 5px}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {position: relative;left:30px;top:-5px}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {position: relative;width: 100%}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;margin: auto;top:25px}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1:after,
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before {visibility: hidden}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {width: 100%;display: flex;flex-flow: row wrap}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV .guild-1EfMGQ {top:15px;left:0}
+#app-mount #bd-pub-li {position: relative;left: -25px;top:50px}
+#app-mount #RANbutton-frame {left:30px;top:15px}

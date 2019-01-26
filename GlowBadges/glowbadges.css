@@ -1,10 +1,10 @@
-.members-1998pB .nameTag-m8r81H {line-height: 22px}
-.BE-badge-EarlySupporter,.profileBadgeEarlySupporter-PQB_0a {filter:drop-shadow(0 0 var(--glow) var(--early))}
-.BE-badge-Nitro,.profileBadgePremium-3kZ9Qj {filter:drop-shadow(0 0 var(--glow) var(--nitro))}
-.BE-badge-HypeSquad,.profileBadgeHypesquad-1YIe7Z {filter:drop-shadow(0 0 var(--glow) var(--hype))}
-.BE-badge-HypeSquadBravery,.profileBadgeHypeSquadOnlineHouse1-xN6tES {filter:drop-shadow(0 0 var(--glow) var(--brave))}
-.BE-badge-HypeSquadBrilliance,.profileBadgeHypeSquadOnlineHouse2-3jBpXR {filter:drop-shadow(0 0 var(--glow) var(--bril))}
-.BE-badge-HypeSquadBalance,.profileBadgeHypeSquadOnlineHouse3-1YbjMX,.profileBadgeWrapper-rl_RO6 .wrapper-1WA4pN {filter:drop-shadow(0 0 var(--glow) var(--bal))}
-.BE-badge-Staff,.profileBadgeStaff-13GO7z {filter:drop-shadow(0 0 var(--glow) var(--staff))}
-.BE-badge-BugHunter,.profileBadgeBugHunter-IV0vLE {filter:drop-shadow(0 0 var(--glow) var(--bughntr))}
-.BE-badge-Partner,.profileBadgePartner-SjK6L2 {filter:drop-shadow(0 0 var(--glow) var(--partner))}
+#app-mount .members-1998pB .nameTag-m8r81H {line-height: 22px}
+#app-mount .BE-badge-EarlySupporter,#app-mount .profileBadgeEarlySupporter-PQB_0a {filter:drop-shadow(0 0 var(--glow) var(--early))}
+#app-mount .BE-badge-Nitro,#app-mount .profileBadgePremium-3kZ9Qj {filter:drop-shadow(0 0 var(--glow) var(--nitro))}
+#app-mount .BE-badge-HypeSquad,#app-mount .profileBadgeHypesquad-1YIe7Z {filter:drop-shadow(0 0 var(--glow) var(--hype))}
+#app-mount .BE-badge-HypeSquadBravery,#app-mount .profileBadgeHypeSquadOnlineHouse1-xN6tES {filter:drop-shadow(0 0 var(--glow) var(--brave))}
+#app-mount .BE-badge-HypeSquadBrilliance,#app-mount .profileBadgeHypeSquadOnlineHouse2-3jBpXR {filter:drop-shadow(0 0 var(--glow) var(--bril))}
+#app-mount .BE-badge-HypeSquadBalance,#app-mount .profileBadgeHypeSquadOnlineHouse3-1YbjMX,#app-mount .profileBadgeWrapper-rl_RO6 .wrapper-1WA4pN {filter:drop-shadow(0 0 var(--glow) var(--bal))}
+#app-mount .BE-badge-Staff,#app-mount .profileBadgeStaff-13GO7z {filter:drop-shadow(0 0 var(--glow) var(--staff))}
+#app-mount .BE-badge-BugHunter,#app-mount .profileBadgeBugHunter-IV0vLE {filter:drop-shadow(0 0 var(--glow) var(--bughntr))}
+#app-mount .BE-badge-Partner,#app-mount .profileBadgePartner-SjK6L2 {filter:drop-shadow(0 0 var(--glow) var(--partner))}
