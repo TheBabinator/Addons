@@ -10,7 +10,7 @@
     0%{opacity:0;transform:translate3d(0, 50%, 0)}
     100%{opacity:0.9;transform:none}
 }
-.attachPopout-1n-ZKM {top:50%;position:relative}
+#app-mount .attachPopout-1n-ZKM {top:50%;position:relative}
 #app-mount .popout-3sVMXz.popoutTopLeft-b5Eb3O{
     width:100vw !important;height:100vh !important;
     background-image:-webkit-radial-gradient(center, ellipse cover, transparent 0%, #000 100%) !important;
