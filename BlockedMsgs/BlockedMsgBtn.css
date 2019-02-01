@@ -1,20 +1,20 @@
-.chat-3bRxxu .messageGroupBlocked-3wrQQX {
+#app-mount .chat-3bRxxu .messageGroupBlocked-3wrQQX {
     display:var(--hideAll)!important;width:80px;
     border-radius:6px;float:right;margin:6px;
     background: transparent;border-color: transparent;
 }
-.chat-3bRxxu .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {
+#app-mount .chat-3bRxxu .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {
     background: var(--btnBg);color: var(--btnColour);
     position:relative;box-shadow: 0 0 0 1px var(--btnBorder);
     border-radius:6px;
 }
-.chat-3bRxxu .messageGroupBlocked-3wrQQX.revealed-1_RKsf .messageGroupBlockedBtn-1PBBh-{
+#app-mount .chat-3bRxxu .messageGroupBlocked-3wrQQX.revealed-1_RKsf .messageGroupBlockedBtn-1PBBh-{
     border-radius:4px 4px 0 0;top:0;box-shadow:none
 }
-.chat-3bRxxu .messageGroupBlocked-3wrQQX.revealed-1_RKsf {
+#app-mount .chat-3bRxxu .messageGroupBlocked-3wrQQX.revealed-1_RKsf {
     width:initial;margin:initial;float:initial;margin:6px;
     background: var(--msgBg);border-color: var(--msgBorder);
 }
-.chat-3bRxxu .messageGroupBlocked-3wrQQX .markup-2BOw-j {color:var(--msgColour)}
-.chat-3bRxxu .dividerContent-2L12VI{width:100%}
-.chat-3bRxxu .containerCozyBounded-1rKFAn {overflow: visible}
+#app-mount .chat-3bRxxu .messageGroupBlocked-3wrQQX .markup-2BOw-j {color:var(--msgColour)}
+#app-mount .chat-3bRxxu .dividerContent-2L12VI{width:100%}
+#app-mount .chat-3bRxxu .containerCozyBounded-1rKFAn {overflow: visible}
