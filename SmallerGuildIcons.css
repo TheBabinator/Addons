@@ -10,7 +10,7 @@
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before {left: -20px}
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,
 #app-mount .noIcon-1a_FrS.iconSizeLarge-161qtT {line-height: 40px}
-#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;margin: 0;left:calc(-40px + var(--size))}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;left:calc(-35px + var(--size))}
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2,.guildsError-3cFMtY {border-radius: var(--round)!important}
