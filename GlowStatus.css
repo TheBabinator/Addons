@@ -1,3 +1,7 @@
+@keyframes typing { 50% {opacity: .4}}
+@media (max-width:1300px){.container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm{width:200px !important}}
+@media (max-width:1300px) {.container-3gCOGc .friendsTable-133bsv .friendsColumnGuilds-2we6jb{display:inline-flex !important}}
+
 #app-mount .membersWrap-2h-GB4 .member-3W1lQa {height:45px}
 #app-mount .membersWrap-2h-GB4 .members-1998pB .small-5Os1Bb {background-size: 37px;height: 37px;width: 37px}
 
@@ -17,15 +21,14 @@
 #app-mount .membersWrap-2h-GB4 .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp,
 #app-mount .container-2Thooq .status-2kJpnA,
 #app-mount .friend-2PO6ke .status-2CRxKL,
-#app-mount .status-oxiHuE.xxlarge-1R_NA5 {
+#app-mount .status-oxiHuE.xxlarge-1R_NA5,#app-mount .status-oxiHuE {
     width:100%;height: 100%;right: 0;bottom:0
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .large-3ChYtB, 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI{width:40px;height:40px;background-size:40px}
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-3fQvEa {right:241px;bottom: 0;height: 40px;width: 40px}
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm {padding-left:4px}
-@media (max-width:1300px){.container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm{width:200px !important}}
-@media (max-width:1300px) {.container-3gCOGc .friendsTable-133bsv .friendsColumnGuilds-2we6jb{display:inline-flex !important}}
+
 
 #app-mount .online-2S838R {background-color: transparent;box-shadow:0 0 var(--sglow) var(--online) !important}
 #app-mount .streaming-2_dnHe {background-color: transparent;box-shadow:0 0 var(--sglow) var(--stream) !important}
@@ -40,8 +43,7 @@
 #app-mount .avatarSmall-3ACRaI,#app-mount .inner-1W0Bkn,
 #app-mount .wrapper-2F3Zv8,#app-mount .status-2s6iDp,
 #app-mount .statusProfile-3ynqtt {border-radius:var(--round);box-shadow:none;-webkit-box-shadow:none}
-#app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none}
-#app-mount .mask-3OgeRz{border-radius:var(--round)}
+#app-mount .maskProfile-1ObLFT,#app-mount .mask-3OgeRz {-webkit-mask: none;mask: none;border-radius:var(--round)}
 
 #app-mount .title-3qD0b- .status-oxiHuE,
 #app-mount .friendsColumnStatus-ZH4ho2 .status-mz5rqq,
@@ -53,7 +55,6 @@
 #app-mount .members-1998pB .pulsingEllipsis-3YiXRF {left:5px}
 #app-mount .status,#app-mount .status-oxiHuE{border:none}
 #app-mount .status-oxiHuE.animate-iYrs3- {transition:none}
-@keyframes typing { 50% {opacity: .4}}
 #app-mount .titleText-3X-zRE {overflow: visible}
 
 #app-mount .menu-Sp6bN1.alt-3btY0e .online-2S838R,
