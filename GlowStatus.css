@@ -22,8 +22,10 @@
 #app-mount .container-2Thooq .status-2kJpnA,
 #app-mount .friend-2PO6ke .status-2CRxKL,
 #app-mount .status-oxiHuE.xxlarge-1R_NA5,#app-mount .status-oxiHuE {
-    width:100%;height: 100%;right: 0;bottom:0
+    width:100%;height: 100%;
+    right: 0;bottom:0
 }
+#app-mount .menu-Sp6bN1.alt-3btY0e .status-3fQvEa{height:5px;width:5px}
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .large-3ChYtB, 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI{width:40px;height:40px;background-size:40px}
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-3fQvEa {right:241px;bottom: 0;height: 40px;width: 40px}
@@ -32,7 +34,7 @@
 
 #app-mount .online-2S838R {background-color: transparent;box-shadow:0 0 var(--sglow) var(--online) !important}
 #app-mount .streaming-2_dnHe {background-color: transparent;box-shadow:0 0 var(--sglow) var(--stream) !important}
-#app-mount .dnd-1_xrcq {background-color: transparent;box-shadow:0 0 var(--sglow) var(--dnd) !important}
+#app-mount .dnd-1_xrcq {background-color: transparent;box-shadow:0 0 var(--sglow) var(--dnd) !important;}
 #app-mount .idle-3DEnRT {background-color: transparent;box-shadow:0 0 var(--sglow) var(--idle) !important}
 #app-mount .invisible-1kp8Z0{background-color: transparent;box-shadow:0 0 var(--sglow) var(--invis) !important}
 #app-mount .offline-3qoTek,
@@ -53,7 +55,7 @@
 #app-mount .pulsingEllipsisItem-32hhWL {opacity: .9} 
 #app-mount .privateChannels-1nO12o .pulsingEllipsis-3YiXRF {left:2px}
 #app-mount .members-1998pB .pulsingEllipsis-3YiXRF {left:5px}
-#app-mount .status,#app-mount .status-oxiHuE{border:none}
+#app-mount .status,#app-mount .status-oxiHuE{border:none;}
 #app-mount .status-oxiHuE.animate-iYrs3- {transition:none}
 #app-mount .titleText-3X-zRE {overflow: visible}
 
@@ -62,7 +64,7 @@
 #app-mount .menu-Sp6bN1.alt-3btY0e .streaming-2_dnHe,
 #app-mount .headerBar-UHpsPw .streaming-2_dnHe {background-color: var(--stream)}
 #app-mount .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq,
-#app-mount .headerBar-UHpsPw .dnd-1_xrcq {background-color: var(--dnd)}
+#app-mount .headerBar-UHpsPw .dnd-1_xrcq {background-color: var(--dnd);}
 #app-mount .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT,
 #app-mount .headerBar-UHpsPw .idle-3DEnRT {background-color: var(--idle)}
 #app-mount .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0,
