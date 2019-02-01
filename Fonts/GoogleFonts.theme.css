@@ -1,4 +1,4 @@
-//META{"name":"Google Fonts","description":"Google Fonts","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+//META{"name":"Google Fonts","description":"Google Fonts","author":"Satoru","version":"1.1","website":"http://discord.gg/fjvwb95"}*//{}
 
 @import url(https://tinyurl.com/ybc8tm5o);
 @import url(https://tinyurl.com/y9ek2awo);
@@ -8,13 +8,15 @@
 
 :root {
 
---font: 'Lato', sans-serif;
+--font: 'Lato', sans-serif; /* Discord default - Whitney,Helvetica Neue,Helvetica,Arial,sans-serif  */
+
 --fontsize: .9em;
+
 --textcolor: #fff
 
 }
 
-::-webkit-input-placeholder, body, button, input, select, textarea:not([class*="hljs"]):not(code){font-family: var(--font) !important}
+::placeholder, body, button, input, select, textarea:not([class*="hljs"]):not(code){font-family: var(--font) !important}
 #app-mount .markup-2BOw-j:not(code) {color:var(--textcolor);font-size: var(--fontsize) !important}
 
 
