@@ -32,8 +32,8 @@
 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .large-3ChYtB, 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI{width:40px;height:40px;background-size:40px}
-#app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-3fQvEa {right:241px;bottom: 0;height: 40px;width: 40px}
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm {padding-left:4px}
+#app-mount .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-3fQvEa {right:241px;bottom: 0;height: 40px;width: 40px}
 
 #app-mount .online-2S838R {background-color: transparent;box-shadow:0 0 var(--sglow) var(--online) !important}
 #app-mount .streaming-2_dnHe {background-color: transparent;box-shadow:0 0 var(--sglow) var(--stream) !important}
