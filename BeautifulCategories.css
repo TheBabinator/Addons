@@ -1,7 +1,7 @@
-div[class^=container-] div[class*=wrapper] > div[class*=name],#app-mount .membersGroup-v9BXpm,#app-mount .privateChannels-1nO12o header  {text-align: center;display: flex;justify-content: center;align-items: center;overflow: hidden;color: var(--NameColour);opacity: 0.6;transition: .2s opacity ease-in-out}
+div[class^=container-] div[class*=wrapper] > div[class*=name],#app-mount .membersGroup-v9BXpm,#app-mount .privateChannels-1nO12o header  {text-align: center;display: flex;justify-content: center;align-items: center;overflow: hidden;color: var(--NameColour);opacity: 0.6;transition: .2s opacity ease-in-out;}
 div[class^=container-] div[class*=wrapper] > div[class*=name]:before, div[class^=container-] div[class*=wrapper] > div[class*=name]:after,
 #app-mount .membersGroup-v9BXpm:before,#app-mount .membersGroup-v9BXpm:after,
 #app-mount .privateChannels-1nO12o header:before,#app-mount .privateChannels-1nO12o header:after  {content: ""; width: 100%;vertical-align: middle;height: 1px;background: var(--LineColour);display: inline-block; margin: 0 5px}
 #app-mount .containerDefault-3GGEv_:hover,#app-mount .membersGroup-v9BXpm:hover,#app-mount .privateChannels-1nO12o header:hover {opacity: 1}
-#app-mount .containerDefault-3GGEv_,#app-mount .membersGroup-v9BXpm,#app-mount .privateChannels-1nO12o header  {padding: 5px}
+#app-mount .containerDefault-3GGEv_,#app-mount .membersGroup-v9BXpm,#app-mount .privateChannels-1nO12o header  {padding-left: 5px;padding-right:5px;}
 #app-mount .nameMuted-1MCOt4,#app-mount .nameMuted-1MCOt4:before,#app-mount .nameMuted-1MCOt4:after {opacity: .4}
