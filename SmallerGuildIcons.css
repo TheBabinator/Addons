@@ -17,7 +17,7 @@
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .avatar-small,#app-mount .guildsWrapper-5TJh6A .guildsError-3cFMtY {background-repeat: no-repeat;background-size: var(--size) var(--size);height: var(--size);width: var(--size)}
 #app-mount .guildsWrapper-5TJh6A .unreadMentionsIndicatorBottom-BXS58x,
 #app-mount .guildsWrapper-5TJh6A .unreadMentionsIndicatorTop-gA6RCh {padding: 10px}
-#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4{background: transparent}
+#app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4{background: transparent !important}
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .friends-icon {height:var(--size);width: var(--size)}
 #app-mount .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2 {padding:2px 5px}
 #app-mount .guildsWrapper-5TJh6A .guildsAddInner-1KMFy- {top: -4px}
