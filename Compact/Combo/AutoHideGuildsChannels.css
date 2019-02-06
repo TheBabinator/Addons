@@ -1,5 +1,5 @@
-#app-mount .guildsWrapper-5TJh6A{width:0;border-right:var(--guildbarSize) solid var(--guildbar);border-radius:2px;transition: all .5s ease}
-#app-mount .guildsWrapper-5TJh6A:hover{border-right-width:0 ;width:70px;transition: all .5s ease}
+#app-mount .guildsWrapper-5TJh6A{width:0;border-right:var(--guildbarSize) solid var(--guildbar);border-radius:2px;transition: all .5s ease;pointer-events:auto}
+#app-mount .guildsWrapper-5TJh6A:hover{border-right-width:0 ;width:70px;transition: all .5s ease;pointer-events:auto}
 
 #app-mount .channels-Ie2l6A {width:0;border-right:var(--channelbarSize) solid var(--channelbar);transition: all .8s ease}
 #app-mount .container-2Rl01u,#app-mount .channels-Ie2l6A:hover, 

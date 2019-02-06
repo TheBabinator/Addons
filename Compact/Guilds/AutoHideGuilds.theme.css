@@ -4,6 +4,7 @@
 
 :root {
 
-   --gSidebar: #6b00c7
+   --gSidebar: #6b00c7 ;
+   --gSidebarSize: 10px ;
 
 }
