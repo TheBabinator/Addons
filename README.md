@@ -4,8 +4,10 @@
 ## Notice of Copyright & License
 ### Satoru BetterDiscord Content License
 
-Intro: 
+Intro:
+
 Basic info, terms. 
+
 Section 1: What you can do. 
 
 Section 2: What you can not do.
