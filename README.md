@@ -4,12 +4,15 @@
 ## Notice of Copyright & License
 ### Satoru BetterDiscord Content License
 
-Intro: Basic info, terms.
-Section 1: What you can do.
+Intro: 
+Basic info, terms. 
+Section 1: What you can do. 
+
 Section 2: What you can not do.
 
 ###### Intro:
--The author (Satoru#4997 [135913674538745856]) herby referred to as "author", retains full rights of all code.
+-The author (Satoru#4997 [135913674538745856]) herby referred to as "author", retains full rights of all code. 
+
 -Themes, plugins and other files containing code are referred to as "content". 
 
 ###### Section 1:
