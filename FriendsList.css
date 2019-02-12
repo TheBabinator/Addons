@@ -55,32 +55,25 @@
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm {
     color: var(--sc)
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 {
     color: black
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud:hover .username {
     color: var(--sc)
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsTableHeader-32yE7d {
     display: none
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud {
     border-top: none
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumn-eVHFqJ {
     position: absolute;
     backface-visibility: hidden
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumn-eVHFqJ+.friendsColumn-eVHFqJ {
     margin: 0
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm .avatarSmall--gkJKA {
     top: 25px;left: 5px;
     width: 85px;height: 85px;
@@ -89,11 +82,9 @@
     transition: opacity 500ms, transform .2s linear, box-shadow .2s linear;
     transform: scale(0.97) perspective(1px);
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud:hover .friendsColumnName-1zBOKm .avatarSmall--gkJKA {
     opacity: 1;transform: scale(1) perspective(1px);box-shadow: none
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm .discord-tag {
     display: block;position: absolute;
     top: 20px;overflow:visible;
@@ -104,7 +95,6 @@
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm .discord-tag .discriminator {
     visibility: visible;opacity: 1
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq, 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 {
     width: 100%;
@@ -116,7 +106,6 @@
     opacity: 0.7;
     z-index: 0
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .statusText-2F9zIF {
     color: #fff;
     font-weight: 700;
@@ -129,29 +118,23 @@
     position: absolute;
     z-index: 0
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud:hover .friendsColumnStatus-ZH4ho2 .statusText-2F9zIF {
     color: var(--mc);
     opacity: 1
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud .friendsColumnGuilds-2we6jb {
     top: 90px;left: 115px;
     width: 150px;display: flex
 }
-
 .container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud .friendsColumnGuilds-2we6jb .iconSizeSmall-3aWgx9 {
     opacity: 0.8;transition: opacity 500ms
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif .friendsRow-2yicud:hover .friendsColumnGuilds-2we6jb .iconSizeSmall-3aWgx9 {
     opacity: 1
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb .iconSizeSmall-3aWgx9 {
     background-color: rgba(0, 0, 0, 0.4)
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb .more-mutual-guilds-btn:before {
     content: "";
     background-color: rgba(0, 0, 0, 0.4);
@@ -163,11 +146,9 @@
     box-shadow: 1px 1px 2px hsla(0, 0%, 0%, 0.5);
     position: relative;top: 0
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb .more-mutual-guilds-btn, #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnGuilds-2we6jb .more-mutual-guilds-btn:hover {
     border: 0;color: transparent
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M {
     top: 45px;right: 10px;opacity: 0;
     transition: opacity 400ms;
@@ -177,56 +158,44 @@
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud:hover .friendsColumnActions-1LT3_M {
     opacity: 0.8
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9 {
     width: 24px;height: 24px;
     transform: translateX(120px);
     transition: transform 400ms, background 400ms
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud:hover .friendsColumnActions-1LT3_M .friendsAction-__WNE9 {
     transform: translateX(0)
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9:first-child, 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9:nth-child(2) {
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.5);
     box-shadow: 0 0 10px 0 var(--mc)
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9:hover {
     background-color: rgba(0, 255, 9, 0.4)
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status.status-unknown {
     border: none
 }
-
 #app-mount .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionRemove-qu8nnl {
     background-color: rgba(210, 20, 20, 0.5)
 }
-
 #app-mount .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionRemove-qu8nnl:hover {
     background-color: #d21414 !important
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif {
     padding: 0;flex-flow: row wrap
 }
-#app-mount .friendsTableBody-1ZhKif[class*="scroller"] .friendsRow-2yicud {
-    min-width: 20%
-}
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9:first-child {
-    transition: 600ms
+    transition: 500ms
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9:nth-child(2) {
-    transition: 800ms
+    transition: 600ms
 }
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9:nth-child(3) {
-    transition: 1000ms
+    transition: 700ms
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .online-2S838R {
     background-color: var(--online);
     box-shadow: none !important
@@ -252,7 +221,6 @@
     background-color: var(--offline);
     box-shadow: none !important
 }
-
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsTableBody-1ZhKif {
     height: calc(100vh - 80px);
 }
