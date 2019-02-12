@@ -23,12 +23,14 @@
 #app-mount .friend-2PO6ke .status-2CRxKL,
 #app-mount .status-oxiHuE.xxlarge-1R_NA5,
 #app-mount .listingWrapper-329f74 .status-oxiHuE,
-#app-mount .popoutSocialInfo-1qhqSY .status-oxiHuE{
+#app-mount .popoutSocialInfo-1qhqSY .status-oxiHuE, 
+#app-mount .container-2duXBh .wrapper-2F3Zv8 .status-oxiHuE {
     width:100%;height: 100%;
     right: 0;bottom:0
 }
 #app-mount .listingWrapper-329f74 .avatarMasked-1s1eiJ,
 #app-mount .popoutSocialInfo-1qhqSY .avatarMasked-1s1eiJ {-webkit-mask-image: none; margin-right: 7px}
+#app-mount .avatarMasked-3y6o4j {-webkit-mask-image: none}
 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .large-3ChYtB, 
 #app-mount .container-3gCOGc .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI{width:40px;height:40px;background-size:40px}
