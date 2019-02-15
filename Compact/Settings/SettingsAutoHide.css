@@ -7,5 +7,5 @@
 #app-mount .standardSidebarView-3F1I7i .contentRegion-3nDuYy .contentColumnDefault-1VQkGM {max-width: 100%;padding: 40px 30px 80px}
 #app-mount .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebar-CFHs9e {padding: 25px 10px 10px 25px;width: 190px}
 
-#app-mount .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {flex: 0;width:0;border-right:8px solid #b400ff;border-radius:2px;transition:all .8s cubic-bezier(0.4, 0, 1, 1)}
+#app-mount .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {flex: 0;width:0;border-right:var(--settingBarSize) solid var(--settingBarColour);border-radius:2px;transition:all .8s cubic-bezier(0.4, 0, 1, 1)}
 #app-mount .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN:hover {flex: 0;width:190px;border-right-width:0;transition:  .6s cubic-bezier(0.4, 0, 1, 1)}
