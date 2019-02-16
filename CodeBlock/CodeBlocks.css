@@ -42,7 +42,8 @@
 #app-mount .markup-2BOw-j .hljs[class~="http" i],
 #app-mount .markup-2BOw-j .hljs[class~="json" i],
 #app-mount .markup-2BOw-j .hljs[class~="xml" i],
-#app-mount .markup-2BOw-j .hljs[class~="less" i] {padding: 0}
+#app-mount .markup-2BOw-j .hljs[class~="less" i],
+#app-mount .markup-2BOw-j .hljs[class~="hljs" i] {padding: 0}
 	
 #app-mount .markup-2BOw-j .hljs[class~="java" i]::before,
 #app-mount .markup-2BOw-j .hljs[class~="sql" i]::before,
@@ -73,7 +74,8 @@
 #app-mount .markup-2BOw-j .hljs[class~="http" i]::before,
 #app-mount .markup-2BOw-j .hljs[class~="json" i]::before,
 #app-mount .markup-2BOw-j .hljs[class~="xml" i]::before,
-#app-mount .markup-2BOw-j .hljs[class~="less" i]::before {
+#app-mount .markup-2BOw-j .hljs[class~="less" i]::before,
+#app-mount .markup-2BOw-j .hljs[class~="hljs" i]::before {
 	width: 100%;position: relative;display:inline-block;
 	text-align:center;color: #fff;line-height: 16px;top:-3px}
 
@@ -107,3 +109,4 @@
 #app-mount .markup-2BOw-j .hljs[class~="json" i]::before{content: " Json";background: #108f66}
 #app-mount .markup-2BOw-j .hljs[class~="xml" i]::before{content: " XML";background: #8444af}
 #app-mount .markup-2BOw-j .hljs[class~="less" i]::before{content: " Less";background: #1d365d}
+#app-mount .markup-2BOw-j .hljs[class~="hljs" i]::before{content: " HLJS - Empty";background: #4e4e4e80}
