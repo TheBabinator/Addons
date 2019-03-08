@@ -1,16 +1,16 @@
-.guildsWrapper-5TJh6A,.scrollerWrap-1IAIlv,.guilds-1q_RqH{transition:all .2s cubic-bezier(0.45, 0.05, 0.55, 0.95) !important}
-.guildsWrapper-5TJh6A .scrollerWrap-1IAIlv ::-webkit-scrollbar,
-.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before {display:none !important}
-.guildsWrapper-5TJh6A:hover {width: 180px;transition: .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .scrollerWrap-1IAIlv{width: 200px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH {display: flex;flex-flow: row wrap;padding-left: 0;align-content: flex-start;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .guild-1EfMGQ {margin-left: 8px;margin-top: 8px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {left: -2px;top: 5px;z-index:900;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .guild-1EfMGQ:first-child {position: relative;left: -7px;margin: auto;margin-top: 15px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .guildSeparator-1X4GQ1 {position: relative;width: 100%;margin-top: 10px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .friendsOnline-_wi_fM {position: relative;width: 100%;margin: auto;left:-7px;margin-top: 5px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .guild-1EfMGQ {position: relative;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .dms-rcsEnV {width: 100%;display: flex;flex-flow: row wrap;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover .guilds-1q_RqH .dms-rcsEnV .guild-1EfMGQ {left: 0;transition: all .4s cubic-bezier(0.4, 0, 1, 1)}
-.guildsWrapper-5TJh6A:hover #bd-pub-li {position: absolute; top: 90px; left: 60px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z,.scrollerWrap-1IAIlv,.scroller-2TZvBN{transition:all .2s cubic-bezier(0.45, 0.05, 0.55, 0.95) !important}
+.wrapper-1Rf91z .scrollerWrap-1IAIlv ::-webkit-scrollbar,
+.wrapper-1Rf91z .scroller-2TZvBN .container-2td-dC.selected-nT-gM3:before {display:none !important}
+.wrapper-1Rf91z:hover {width: 180px;transition: .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scrollerWrap-1IAIlv{width: 200px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN {display: flex;flex-flow: row wrap;padding-left: 0;align-content: flex-start;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .container-2td-dC {margin-left: 8px;margin-top: 8px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .container-2td-dC.unread-2OHH1w::before {left: -2px;top: 5px;z-index:900;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .container-2td-dC:first-child {position: relative;left: -7px;margin: auto;margin-top: 15px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .guildSeparator-3s64Iy {position: relative;width: 100%;margin-top: 10px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .friendsOnline-2JkivW {position: relative;width: 100%;margin: auto;left:-7px;margin-top: 5px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .container-2td-dC {position: relative;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .dms-rcsEnV {width: 100%;display: flex;flex-flow: row wrap;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover .scroller-2TZvBN .dms-rcsEnV .container-2td-dC {left: 0;transition: all .4s cubic-bezier(0.4, 0, 1, 1)}
+.wrapper-1Rf91z:hover #bd-pub-li {position: absolute; top: 90px; left: 60px;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}
 #bd-pub-li #bd-pub-button {position:absolute;width: 100%;text-align: center;transition:all .4s cubic-bezier(0.4, 0, 1, 1)}

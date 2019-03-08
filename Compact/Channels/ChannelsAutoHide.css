@@ -1,4 +1,4 @@
-#app-mount .channels-Ie2l6A:hover, #app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A {
+#app-mount .channels-Ie2l6A:hover, #app-mount .wrapper-1Rf91z:hover + div .channels-Ie2l6A {
     left: 70px;opacity: .99;
     transition: all .4s ease-out;
     z-index: 1000
