@@ -1,3 +1,6 @@
+:root {
+    --sGlow: var(--sglow)
+}
 @keyframes typing {50% {opacity: .4}}
 @media (max-width:1300px) {
     .container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm {
