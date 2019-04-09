@@ -1,0 +1,10 @@
+//META{"name":"Old User Settings","description":"Old User Settings Style","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url('https://satoru8.github.io/Addons/OldUserSettings/oldUserSettings.css');
+
+:root {
+    --sWidth2: 70% ; 
+    --sHeight2: 90% ; 
+    --sBackdrop2: rgba(0, 0, 0, 0.6) ;
+    --sRadius2: 6px ;
+}

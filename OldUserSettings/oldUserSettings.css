@@ -1,0 +1,68 @@
+#app-mount .layers-3iHuyZ {
+    align-items: center;
+    justify-content: center
+}
+#app-mount .layer-3QrUeG:nth-child(2) {
+    background: transparent;
+}
+#app-mount .layers-3iHuyZ > .layer-3QrUeG:first-child {
+    opacity: 1!important;
+    transform: none!important
+}
+
+#app-mount .layers-3iHuyZ > .layer-3QrUeG.stop-animations:first-child {
+    z-index: 1
+}
+
+#app-mount .layers-3iHuyZ > .layer-3QrUeG:nth-child(2)::before {
+    content: "";
+    background: var(--sBackdrop2);
+    position: absolute;
+    top: -100%;
+    left: -100%;
+    right: -100%;
+    padding: 100%;
+    width: 100%;
+    height: 100%
+}
+
+#app-mount .layers-3iHuyZ > .layer-3QrUeG:nth-child(2) {
+    width: var(--sWidth2);
+    height: var(--sHeight2);
+    top: unset;
+    bottom: unset;
+    right: unset;
+    left: unset;
+    display: block;
+    overflow: visible;
+    transform: translateZ(0);
+    z-index: 3
+}
+
+#app-mount .standardSidebarView-3F1I7i .payment-info .description-3_Ncsb, 
+#app-mount .standardSidebarView-3F1I7i .paymentSourceRow-3FbcL_ .subText-V8PTt8, 
+#app-mount .standardSidebarView-3F1I7i .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg {
+    transition: all 300ms cubic-bezier(0.550, 0.085, 0.680, 0.530);
+    filter: blur(8px);
+    opacity: 0
+}
+
+#app-mount .standardSidebarView-3F1I7i .payment-info .description-3_Ncsb:hover, 
+#app-mount .standardSidebarView-3F1I7i .paymentSourceRow-3FbcL_ .subText-V8PTt8:hover, 
+#app-mount .standardSidebarView-3F1I7i .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg:hover {
+    transition: all 400ms cubic-bezier(0.550, 0.085, 0.680, 0.530);
+    filter: none;
+    opacity: 1
+}
+
+#app-mount .standardSidebarView-3F1I7i {
+    border-radius: var(--sRadius2);
+}
+
+#app-mount .standardSidebarView-3F1I7i .contentRegion-3nDuYy {
+    border-radius: 0 var(--sRadius2) var(--sRadius2) 0
+}
+
+#app-mount .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {
+    border-radius: var(--sRadius2) 0 0 var(--sRadius2)
+}
