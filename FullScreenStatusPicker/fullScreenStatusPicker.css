@@ -45,7 +45,7 @@
     transform:scale(1.1) translateZ(0px)
 }
 #app-mount .menu-Sp6bN1.alt-3btY0e .item-1GzJrl:hover .statusIconText-3b4TkH{
-    opacity:1;display:block;animation:fadeFromTop-tooltip 500ms forwards
+    opacity:1;display:block;
 }
 #app-mount .menu-Sp6bN1.alt-3btY0e .item-1GzJrl:hover .helper-2c73HK{
     opacity:1;animation:fadeFromBottom-tooltip 500ms
