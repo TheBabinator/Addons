@@ -50,7 +50,7 @@
 #app-mount .popoutSocialInfo-1qhqSY .avatarMasked-1s1eiJ {
     -webkit-mask-image: none;margin-right: 7px
 }
-#app-mount .avatarMasked-3y6o4j {-webkit-mask-image: none}
+#app-mount .avatarMasked-3y6o4j, #app-mount .partyMember-2q4Jxq {-webkit-mask-image: none}
 #app-mount .friendsTable-133bsv .friendsRow-2yicud .large-3ChYtB,
 #app-mount .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI {
     width: 40px;height: 40px;background-size: 40px
