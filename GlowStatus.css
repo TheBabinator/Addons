@@ -28,7 +28,7 @@
 #app-mount .xsmall-3afG_L .status-oxiHuE,
 #app-mount .playersSections-1EnWZ8 .status-oxiHuE,
 #app-mount .activityFeed-1C0EmJ .card-GqTca8 .status-oxiHuE,
-#app-mount .partyMember-923s4S .large-3ChYtB,
+#app-mount .partyMembers-2HCFEF .large-3ChYtB,
 #app-mount .avatar-261BSX .avatarStatus-mmE7bK,
 #app-mount .statusProfile-3ynqtt.status-oxiHuE,
 #app-mount .listRow-hutiT_ .status-oxiHuE,
@@ -75,7 +75,7 @@
     box-shadow: none;
     -webkit-box-shadow: none
 }
-#app-mount .partyMember-923s4S,
+#app-mount .partyMembers-2HCFEF,
 #app-mount .maskProfile-1ObLFT,
 #app-mount .mask-3OgeRz {
     -webkit-mask: none;mask: none;
