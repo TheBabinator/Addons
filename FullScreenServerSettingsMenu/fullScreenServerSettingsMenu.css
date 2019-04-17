@@ -6,11 +6,11 @@
     0%{opacity:0;transform:translate(0, 80px)}
     100%{opacity:1;transform:none}
 }
-@keyframes fadeFromTop-tooltip{
+@keyframes fadeFTServer{
     0%{opacity:0;transform:translate3d(-50%, -50%, 0)}
     100%{opacity:0.9;transform:translate3d(-50%, 0, 0)}
 }
-@keyframes fadeFromBottom-tooltip{
+@keyframes fadeFBServer{
     0%{opacity:0;transform:translate3d(-50%, 50%, 0)}
     100%{opacity:0.9;transform:translate3d(-50%, 0, 0)}
 }
@@ -48,7 +48,7 @@
 }
 #app-mount .menu-Sp6bN1:not(.alt-3btY0e) .item-1GzJrl:nth-child(-n+7) .label-1Y-LW5{
     top:-45px;
-    animation:fadeFromTop-tooltip 500ms forwards
+    animation:fadeFTServer 500ms forwards
 }
 #app-mount .menu-Sp6bN1:not(.alt-3btY0e) .item-1GzJrl:nth-child(-n+7) .label-1Y-LW5:before{
     bottom:-6px;
@@ -83,7 +83,7 @@
 }
 #app-mount .menu-Sp6bN1:not(.alt-3btY0e) .item-1GzJrl:nth-child(n+8) .label-1Y-LW5{
     bottom:-50px;
-    animation:fadeFromBottom-tooltip 500ms forwards
+    animation:fadeFBServer 500ms forwards
 }
 #app-mount .menu-Sp6bN1:not(.alt-3btY0e) .item-1GzJrl:nth-child(n+8) .label-1Y-LW5:before{
     top:-5px;
